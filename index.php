@@ -21,11 +21,7 @@ The first tweet with your hashtag is the ‘author’ and links to the original 
 					<br>
 Potential whistleblowers can see all the bidders and communicate with them using the author’s tweet.  When you have confirmed you have the data to satisfy the bidders, click ‘claim’ to start a tweet with #factbidclaim.  It must include links to the facts and your donation instructions.
 </p>
-				<button type="button" class="fact-bannerbtn"><a href="#">Get A Quote</a></button>
 			</div>
-			<div class="img_fact">
-				<img src="<?php echo $site_url ;	?>/factbid/images/fact_bacnner.png">
-		</div>
 	</div>
 </section>
 <section class="factbid_wrapsec">
@@ -38,7 +34,7 @@ Potential whistleblowers can see all the bidders and communicate with them using
 
 
 <?php	
-	$sql = "SELECT * FROM hashtag";
+	$sql = "SELECT * FROM `hashtag` WHERE `exclude`=0 ORDER BY `sort`;";
 	$result = mysqli_query($conn, $sql);
 
 if(mysqli_num_rows($result) > 0) {  ?>
@@ -53,15 +49,16 @@ if(mysqli_num_rows($result) > 0) {  ?>
 	 ?>
 	  <tr>
 		<td colspan="6">
-			<h2><a href="<?php echo $current_url ;	?>/list.php?hashtag=<?php echo  $row['hashtag']; ?>">#<?php echo  $row['hashtag']; ?></a></h2>
+			<h2><a href="/<?php echo  $row['hashtag']; ?>">#<?php echo  $row['hashtag']; ?></a></h2>
 	<p><?php echo  $row['title']; ?> </p>
 		</td>
 	</tr>
 	<tr>
-		<th>@<a href="#"><?php echo  $row['author']; ?></a></th>
-		<th><a href="#"><?php echo  $row['bids']; ?></a></th>
-		<th><a href="#">$<?php echo number_format($row['total']);  ?></a></th>
-		<th><a href="#"><?php echo $row['claims'];  ?></a></th>
+	
+		<th>@<a href="https://twitter.com/<?php echo $row['author'];?>/status/<?php echo $row['tweet_id'];?>"><?php echo $row['author']; ?></a></th>
+		<th><a href="/<?php echo  $row['hashtag']; ?>"><?php echo  $row['bids']; ?></a></th>
+		<th><a href="/<?php echo  $row['hashtag']; ?>">$<?php echo number_format($row['total']);  ?></a></th>
+		<th><a href="/<?php echo  $row['hashtag']; ?>/claims"><?php echo $row['claims'];  ?></a></th>
 		<th><a href="#">bid</a></th>
 		<th><a href="#">claim</a></th>
 	</tr>
