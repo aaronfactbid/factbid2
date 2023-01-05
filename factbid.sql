@@ -33,7 +33,7 @@ CREATE TABLE `bid` (
   `author` varchar(30) DEFAULT NULL,
   `author_id` varchar(50) DEFAULT NULL,
   `tweet_id` varchar(50) DEFAULT NULL,
-  `datetime` datetime DEFAULT NULL,
+  `created_ts` timestamp DEFAULT NULL,
   `currency` varchar(4) DEFAULT NULL,
   `amount` int(11) UNSIGNED DEFAULT NULL,
   `sort` int(11) UNSIGNED DEFAULT NULL,
@@ -52,7 +52,7 @@ CREATE TABLE `claim` (
   `author` varchar(30) DEFAULT NULL,
   `author_id` varchar(30) DEFAULT NULL,
   `tweet_id` varchar(50) DEFAULT NULL,
-  `datetime` datetime DEFAULT NULL,
+  `created_ts` timestamp DEFAULT NULL,
   `sort` int(11) DEFAULT NULL,
   `exclude` tinyint(1) DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
@@ -72,6 +72,7 @@ CREATE TABLE `hashtag` (
   `claims` int(11) UNSIGNED DEFAULT NULL,
   `author_id` varchar(30) DEFAULT NULL,
   `tweet_id` varchar(30) DEFAULT NULL,
+  `created_ts` timestamp DEFAULT NULL,
   `title` varchar(270) DEFAULT NULL,
   `sort` int(11) UNSIGNED DEFAULT NULL,
   `exclude` tinyint(1) DEFAULT 0

@@ -10,7 +10,26 @@ cd git
 git clone https://github.com/aaronfactbid/factbid2.git
 rm -rf /var/www/html
 ln -s /var/git/factbid2/ /var/www/html
+#enable modrewrite so /HashTag works
+a2enmod rewrite
+systemctl restart apache2
+#add the following block to /etc/apache2/sites-available/000-default.conf and 000-default-le-ssl.conf
+<Directory /var/www/html>
+	Options Indexes FollowSymLinks
+    AllowOverride All
+    Require all granted
+</Directory>
+# add the following to /var/www/html/.htaccess
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /list.php?hashtag=$1 [L,QSA]
+#Then restart so all /Hashtag redirects to /list.php?hashtag=Hashtag
+systemctl restart apache2
+
+
 #I test changes locally before committing and then when ready to update do: cd /var/www/html; cp config.php ~/; git reset --hard; git pull; cat ~/config.php > config.php
+
 
 --populating the mysql database
 #I use ssh port forwarding so I can run sqlyog locally
