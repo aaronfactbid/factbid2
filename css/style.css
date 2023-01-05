@@ -1,0 +1,224 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+header{
+    /* background-color: #e5e5e5; */
+    padding: 13px 0px;
+}
+.header-logos ul {
+    display: flex;
+}
+section, header{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+nav.header-logos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+.fect_logo img {
+    width: 100%;
+    max-width: 200px;
+}
+.header-logos ul {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    justify-content: center;
+    gap: 5px;
+}
+.wrapper_logo img {
+    width: 26px !important;
+    margin-top: 4px;
+}
+.header-logos ul li {
+    list-style: none;
+    border: 1px solid transparent;
+    border-radius: 100px;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.3s;
+}
+.header-logos ul li:hover {
+    background-color: white;
+    transition: 0.3s;
+}
+/*******banner************/
+.fact_banerr {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    align-items: center;
+    padding: 50px 0px 80px;
+}
+h1 {
+    font-size: 55px;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 67px;
+    color: #111;
+}
+ p {
+    font-size: 18px;
+    line-height: 30px;
+    font-family: poppins;
+    margin-top: 20px;
+}
+button.fact-bannerbtn a{
+    background: #628aec;
+    width: fit-content;
+    max-width: 330px;
+    height: fit-content;
+    min-height: 50px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: poppins;
+    border-radius: 5px;
+    border: 1px solid #628aec;
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+}
+button.fact-bannerbtn a:hover{
+    background: transparent;
+    border: 1px solid #628aec;
+    color: #628aec;
+}
+button.fact-bannerbtn {
+    border: 0px;
+    margin-top: 40px;
+    background-color: transparent;
+}
+.fact_banerr>div:nth-child(1) {
+    width: 50%;
+}
+.fact_banerr .img_fact {
+    width: 50%;
+}
+.img_fact img {
+    max-width: 100%;
+    width: 100%;
+}
+/*******factbid_wrapsec******/
+section.factbid_wrapsec {
+    background: #f8f8f8;
+    padding: 70px 15px;
+}
+.factbid_wrap {
+    text-align: center;
+}
+.fact_bidtable table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color: #111;
+}
+
+.fact_bidtable td, .fact_bidtable th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 15px;
+}
+.fact_bidtable {
+    padding-top: 50px;
+}
+.fact_bidtable a {
+    color: #111;
+}
+.fact_bidtable td h2 {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0px;
+    padding: 10px 0px 0px;
+}
+.fact_bidtable th {
+    font-size: 20px;
+    font-family: montserrat;
+    font-weight: 600;
+}
+.fact_bidtable p {
+    font-size: 16px;
+    line-height: 28px;
+    font-family: poppins;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #e9e9e9;
+}
+::-webkit-scrollbar-thumb {
+    background: #d5d5d5;
+}
+::-webkit-scrollbar {
+    height: 9px;
+}
+.fact_bidtable th {
+    background: #efefef;
+    white-space: pre;
+}
+@media (max-width:1440px){
+    .container {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+}
+@media (max-width:1024px){
+    .container {
+    width: 100%;
+    max-width: 768px;
+    margin: 0 auto;
+}
+}
+@media (max-width:991px){
+:root .fact_banerr {
+    flex-direction: column;
+}
+:root .fact_banerr>div:nth-child(1) {
+    width: 100%;
+}
+:root .fact_banerr .img_fact {
+    width: 100%;
+}
+.fact_bidtable {
+    overflow-x: scroll;
+}
+}
+@media (max-width:767px){
+
+.container {
+    width: 100%;
+    max-width: 600px;
+} 
+
+:root .fact_bidtable th {
+    font-size: 18px;
+}
+h1 {
+    font-size: 40px;
+    line-height: 52px;
+}
+ p {
+    font-size: 16px;
+    line-height: 28px;
+    font-family: poppins;
+    margin-top: 20px;
+}
+}
+@media (max-width:500px){
+  :root nav.header-logos {
+    flex-direction: column;
+}  
+}
