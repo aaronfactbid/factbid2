@@ -38,7 +38,7 @@ CREATE TABLE `bid` (
   `amount` int(11) UNSIGNED DEFAULT NULL,
   `sort` int(11) UNSIGNED DEFAULT NULL,
   `exclude` tinyint(1) DEFAULT 0
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- --------------------------------------------------------
 
@@ -55,7 +55,7 @@ CREATE TABLE `claim` (
   `datetime` datetime DEFAULT NULL,
   `sort` int(11) DEFAULT NULL,
   `exclude` tinyint(1) DEFAULT 0
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- --------------------------------------------------------
 
@@ -75,7 +75,7 @@ CREATE TABLE `hashtag` (
   `title` varchar(270) DEFAULT NULL,
   `sort` int(11) UNSIGNED DEFAULT NULL,
   `exclude` tinyint(1) DEFAULT 0
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Dumping data for table `hashtag`
@@ -124,7 +124,7 @@ ALTER TABLE `claim`
 -- AUTO_INCREMENT for table `hashtag`
 --
 ALTER TABLE `hashtag`
-  MODIFY `id_hashtag` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id_hashtag` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

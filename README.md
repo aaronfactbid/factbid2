@@ -10,6 +10,7 @@ cd git
 git clone https://github.com/aaronfactbid/factbid2.git
 rm -rf /var/www/html
 ln -s /var/git/factbid2/ /var/www/html
+#I test changes locally before committing and then when ready to update do: cd /var/www/html; cp config.php ~/; git reset --hard; git pull; cat ~/config.php > config.php
 
 --populating the mysql database
 #I use ssh port forwarding so I can run sqlyog locally

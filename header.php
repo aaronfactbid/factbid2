@@ -27,10 +27,10 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 				</div>
 				<div class="wrapper_logo">
 					<ul>
-						<li><a href="#"><img src="<?php echo $site_url ;	?>/images/Twitter.png"></a></li>
-						<li><a href="#"><img src="<?php echo $site_url ;	?>/images/SubStack.png"></a></li>
-						<li><a href="#"><img src="<?php echo $site_url ;	?>/images/Git_Hub.png"></a></li>
-						<li><a href="#"><img src="<?php echo $site_url ;	?>/images/Mail.png"></a></li>
+						<li><a href="https://twitter.com/factbid"><img src="<?php echo $site_url ;	?>/images/Twitter.png"></a></li>
+						<li><a href="https://factbid.substack.com"><img src="<?php echo $site_url ;	?>/images/SubStack.png"></a></li>
+						<li><a href="https://github.com/aaronfactbid"><img src="<?php echo $site_url ;	?>/images/Git_Hub.png"></a></li>
+						<li><a href="mailto:aaron@factbid.org"><img src="<?php echo $site_url ;	?>/images/Mail.png"></a></li>
 					</ul>
 				</div>
 			
