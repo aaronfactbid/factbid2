@@ -3,7 +3,7 @@
 
 	$current_hashtag = $_GET['hashtag'];
  
- 	$sql = "SELECT * FROM hashtag WHERE `hashtag`='" . $current_hashtag . "' LIMIT 1;";
+ 	$sql = "SELECT *,UNIX_TIMESTAMP(created_ts) AS created_int FROM hashtag WHERE `hashtag`='" . $current_hashtag . "' LIMIT 1;";
 	$result_ht = mysqli_query($conn, $sql);
 
 	if(mysqli_num_rows($result_ht) > 0) { 
@@ -11,8 +11,9 @@
 		$id_hashtag = $row_ht['id_hashtag'];
 		
 		echo '<p>' . $row_ht['hashtag'] . ' bids</p>';
+		echo '<p>Created: <script>var date = new Date(' . $row_ht['created_int'] .' * 1000); document.write(date.toLocaleString());</script></p>';
 
-		$sql = "SELECT * FROM bid WHERE `id_hashtag`=" . $id_hashtag . " ORDER BY `sort`;";
+		$sql = "SELECT *,UNIX_TIMESTAMP(created_ts) AS created_int FROM bid WHERE `id_hashtag`=" . $id_hashtag . " ORDER BY `sort`;";
 		$result = mysqli_query($conn, $sql);
 
 	?>
@@ -27,7 +28,7 @@
 	
 	<tr>
 		<td>@<a href="#"><?php echo  $row['author']; ?></a></td>
-		<td><?php echo  $row['created_ts']; ?></td>
+		<td><?php echo '<script>var date = new Date(' . $row['created_int'] .' * 1000); document.write(date.toLocaleString());</script>';?></td>
 		<td><?php echo $row['currency'] . number_format($row['amount']); ?></td>
 	</tr>
 	</table>
