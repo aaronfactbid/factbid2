@@ -56,11 +56,19 @@ nav.header-logos {
 }
 /*******banner************/
 .fact_banerr {
-    display: flex;
+/*    display: flex;
     justify-content: space-between;
     gap: 50px;
-    align-items: center;
+    align-items: center;*/
     padding: 50px 0px 80px;
+    text-align: left;
+    width: 100%;
+}
+.factbid_wrap h1 {
+    text-align: left;
+}
+.img_fact{
+    display: none;
 }
 h1 {
     font-size: 55px;
@@ -100,16 +108,16 @@ button.fact-bannerbtn {
     margin-top: 40px;
     background-color: transparent;
 }
-.fact_banerr>div:nth-child(1) {
+/*.fact_banerr>div:nth-child(1) {
     width: 50%;
 }
 .fact_banerr .img_fact {
     width: 50%;
-}
-.img_fact img {
+}*/
+/*.img_fact img {
     max-width: 100%;
     width: 100%;
-}
+}*/
 /*******factbid_wrapsec******/
 section.factbid_wrapsec {
     background: #f8f8f8;

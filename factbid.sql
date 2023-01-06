@@ -28,17 +28,20 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `bid` (
-  `id_bid` int(11) NOT NULL,
+  `id_bid` int(11) NOT NULL AUTO_INCREMENT,
   `id_hashtag` int(11) DEFAULT NULL,
-  `author` varchar(30) DEFAULT NULL,
+  `id_tweet` int(11) DEFAULT NULL,
+  `author_username` varchar(255) DEFAULT NULL,
   `author_id` varchar(50) DEFAULT NULL,
-  `tweet_id` varchar(50) DEFAULT NULL,
-  `created_ts` timestamp DEFAULT NULL,
+  `id_twitter` varchar(30) DEFAULT NULL,
+  `created_ts` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
   `currency` varchar(4) DEFAULT NULL,
-  `amount` int(11) UNSIGNED DEFAULT NULL,
-  `sort` int(11) UNSIGNED DEFAULT NULL,
-  `exclude` tinyint(1) DEFAULT 0
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+  `amount` int(11) unsigned DEFAULT NULL,
+  `sort` int(11) unsigned DEFAULT NULL,
+  `exclude` tinyint(1) DEFAULT 0,
+  PRIMARY KEY (`id_bid`),
+  KEY `id_hashtag` (`id_hashtag`,`sort`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
 
@@ -47,15 +50,17 @@ CREATE TABLE `bid` (
 --
 
 CREATE TABLE `claim` (
-  `id_claim` int(11) UNSIGNED NOT NULL,
-  `id_hashtag` int(11) UNSIGNED DEFAULT NULL,
-  `author` varchar(30) DEFAULT NULL,
+  `id_claim` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `id_hashtag` int(11) unsigned DEFAULT NULL,
+  `id_tweet` int(11) DEFAULT NULL,
+  `author_username` varchar(255) DEFAULT NULL,
   `author_id` varchar(30) DEFAULT NULL,
-  `tweet_id` varchar(50) DEFAULT NULL,
-  `created_ts` timestamp DEFAULT NULL,
+  `id_twitter` varchar(30) DEFAULT NULL,
+  `created_ts` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
   `sort` int(11) DEFAULT NULL,
-  `exclude` tinyint(1) DEFAULT 0
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+  `exclude` tinyint(1) DEFAULT 0,
+  PRIMARY KEY (`id_claim`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
 
@@ -64,69 +69,24 @@ CREATE TABLE `claim` (
 --
 
 CREATE TABLE `hashtag` (
-  `id_hashtag` int(11) UNSIGNED NOT NULL,
+  `id_hashtag` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `hashtag` varchar(50) NOT NULL,
-  `author` varchar(50) NOT NULL,
-  `bids` int(11) UNSIGNED DEFAULT NULL,
-  `total` int(11) UNSIGNED DEFAULT NULL,
-  `claims` int(11) UNSIGNED DEFAULT NULL,
+  `id_tweet` int(10) unsigned DEFAULT NULL,
+  `author_username` varchar(255) DEFAULT NULL,
+  `bids` int(11) unsigned DEFAULT NULL,
+  `total` int(11) unsigned DEFAULT NULL,
+  `claims` int(11) unsigned DEFAULT NULL,
   `author_id` varchar(30) DEFAULT NULL,
-  `tweet_id` varchar(30) DEFAULT NULL,
-  `created_ts` timestamp DEFAULT NULL,
-  `title` varchar(270) DEFAULT NULL,
-  `sort` int(11) UNSIGNED DEFAULT NULL,
-  `exclude` tinyint(1) DEFAULT 0
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+  `id_twitter` varchar(30) DEFAULT NULL,
+  `created_ts` timestamp NULL DEFAULT NULL,
+  `title` text DEFAULT NULL,
+  `sort` int(11) unsigned DEFAULT NULL,
+  `exclude` tinyint(1) DEFAULT 0,
+  PRIMARY KEY (`id_hashtag`),
+  UNIQUE KEY `hashtag` (`hashtag`),
+  KEY `id_tweet` (`id_tweet`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
---
--- Dumping data for table `hashtag`
---
-
---
--- Indexes for dumped tables
---
-
---
--- Indexes for table `bid`
---
-ALTER TABLE `bid`
-  ADD PRIMARY KEY (`id_bid`),
-  ADD KEY `id_hashtag` (`id_hashtag`,`sort`);
-
---
--- Indexes for table `claim`
---
-ALTER TABLE `claim`
-  ADD PRIMARY KEY (`id_claim`);
-
---
--- Indexes for table `hashtag`
---
-ALTER TABLE `hashtag`
-  ADD PRIMARY KEY (`id_hashtag`);
-
---
--- AUTO_INCREMENT for dumped tables
---
-
---
--- AUTO_INCREMENT for table `bid`
---
-ALTER TABLE `bid`
-  MODIFY `id_bid` int(11) NOT NULL AUTO_INCREMENT;
-
---
--- AUTO_INCREMENT for table `claim`
---
-ALTER TABLE `claim`
-  MODIFY `id_claim` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
-
---
--- AUTO_INCREMENT for table `hashtag`
---
-ALTER TABLE `hashtag`
-  MODIFY `id_hashtag` int(11) UNSIGNED NOT NULL AUTO_INCREMENT;
-COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

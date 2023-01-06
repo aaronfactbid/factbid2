@@ -54,11 +54,10 @@ if(mysqli_num_rows($result) > 0) {  ?>
 		</td>
 	</tr>
 	<tr>
-	
-		<th>@<a href="https://twitter.com/<?php echo $row['author'];?>/status/<?php echo $row['tweet_id'];?>"><?php echo $row['author']; ?></a></th>
-		<th><a href="/<?php echo  $row['hashtag']; ?>"><?php echo  $row['bids']; ?></a></th>
-		<th><a href="/<?php echo  $row['hashtag']; ?>">$<?php echo number_format($row['total']);  ?></a></th>
-		<th><a href="/<?php echo  $row['hashtag']; ?>/claims"><?php echo $row['claims'];  ?></a></th>
+		<th>@<a href="#"><?php echo  $row['author']; ?></a></th>
+		<th><a href="#"><?php echo  $row['bids']; ?></a></th>
+		<th><a href="#">$<?php echo number_format($row['total']);  ?></a></th>
+		<th><a href="<?php echo $current_url ;	?>/claims.php?claims=<?php echo $row['id_hashtag']; ?>"><?php echo $row['claims'];  ?></a></th>
 		<th><a href="#">bid</a></th>
 		<th><a href="#">claim</a></th>
 	</tr>
