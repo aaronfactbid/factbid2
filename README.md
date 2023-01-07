@@ -4,12 +4,10 @@ There is a separate back end process which polls the tweets and stores them in a
 
 --Deployment instructions for front end when logged in as root:
 apt install git
-cd /var/
-mkdir git
-cd git
+cd /opt
 git clone https://github.com/aaronfactbid/factbid2.git
 rm -rf /var/www/html
-ln -s /var/git/factbid2/ /var/www/html
+ln -s /opt/factbid2 /var/www/html
 #enable modrewrite so /HashTag works
 a2enmod rewrite
 systemctl restart apache2

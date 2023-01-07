@@ -71,7 +71,10 @@ CREATE TABLE `claim` (
 CREATE TABLE `hashtag` (
   `id_hashtag` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `hashtag` varchar(50) NOT NULL,
-  `id_tweet` int(10) unsigned DEFAULT NULL,
+  `id_tweet` int(11) unsigned DEFAULT NULL,
+  `id_tweet_original` int(11) DEFAULT NULL COMMENT 'This is the original that was first added',
+  `id_tweet_prior` int(11) DEFAULT NULL COMMENT 'When we change author with the a command this has the prior id',
+  `id_process` int(11) unsigned DEFAULT NULL,
   `author_username` varchar(255) DEFAULT NULL,
   `bids` int(11) unsigned DEFAULT NULL,
   `total` int(11) unsigned DEFAULT NULL,
@@ -87,6 +90,11 @@ CREATE TABLE `hashtag` (
   KEY `id_tweet` (`id_tweet`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+CREATE TABLE `currency` (
+  `currency` varchar(3) NOT NULL,
+  `value_usd` int(11) DEFAULT NULL,
+  PRIMARY KEY (`currency`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
