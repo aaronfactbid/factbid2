@@ -1,7 +1,8 @@
 <?php
 
-$username = "factbid";
-$password = "Isgd^9734";
+$hostname = "localhost";
+$username = "";
+$password = "";
 $dbname = "factbid";
 
 
