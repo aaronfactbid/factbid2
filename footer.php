@@ -10,5 +10,6 @@ if(mysqli_num_rows($result_footer) > 0) {
 }
 ?>
 </p>
+</div>
 </body>
 </html>

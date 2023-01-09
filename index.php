@@ -9,7 +9,6 @@
 
 <!--------banner------------->
 <section>
-	<div class="container">
 		<div class="fact_banerr">
 			<div>
 				<h1>How It Works</h1>
@@ -22,15 +21,13 @@ The first tweet with your hashtag is the ‘author’ and links to the original 
 Potential whistleblowers can see all the bidders and communicate with them using the author’s tweet.  When you have confirmed you have the data to satisfy the bidders, click ‘claim’ to start a tweet with #factbidclaim.  It must include links to the facts and your donation instructions.
 </p>
 			</div>
-	</div>
 </section>
 <section class="factbid_wrapsec">
-	<div class="container">
 		<div class="factbid_wrap">
 			<h1>List of factbid tweets</h1>
 
 			<div class="fact_bidtable">
-				<table>
+				
 
 
 <?php	
@@ -38,40 +35,42 @@ Potential whistleblowers can see all the bidders and communicate with them using
 	$result = mysqli_query($conn, $sql);
 
 if(mysqli_num_rows($result) > 0) {  ?>
-     <tr>
+	<table>
+     
+     <thead><tr>
     <th>Author</th>
     <th>Bids</th>
     <th>Total</th>
     <th>Claims</th>
     <th colspan="2">Start a tweet</th>
-</tr>
+</tr></thead>
 <?php while($row = $result->fetch_assoc()) {
 	 ?>
 	  <tr>
 		<td colspan="6">
-			<h2><a href="/<?php echo  $row['hashtag']; ?>">#<?php echo  $row['hashtag']; ?></a></h2>
+			<h2>#<a href="/<?php echo  $row['hashtag']; ?>"><?php echo  $row['hashtag']; ?></a></h2>
 	<p><?php echo  $row['title']; ?> </p>
 		</td>
 	</tr>
 	<tr>
 		<th>@<a href="https://twitter.com/<?php echo  $row['author_username']; ?>/status/<?php echo  $row['id_twitter']; ?>"><?php echo  $row['author_username']; ?></a></th>
 		<th><a href="/<?php echo  $row['hashtag']; ?>"><?php echo  $row['bids']; ?></a></th>
-		<th><a href="/<?php echo  $row['hashtag']; ?>">$<?php echo number_format($row['total']);  ?></a></th>
+		<th>$<?php echo number_format($row['total']);  ?></th>
 		<th><a href="<?php echo $current_url ;	?>/claims.php?claims=<?php echo $row['id_hashtag']; ?>"><?php echo $row['claims'];  ?></a></th>
 		<th><a href="#">bid</a></th>
-		<th><a href="#">claim</a></th>
+		<th><a href="https://twitter.com/search?q=<?php echo  $row['author_username']; ?>">claim</a></th>
 	</tr>
 <?php
-	   }
-	}
+	   } ?>
+	   </table>
+<?php	}
 	 else {
 	  echo "0 results";
 	}   ?>
 
 
-</table>
+
 			</div>
 		</div>
-	</div>
 </section>
 <?php require_once('footer.php'); ?>

@@ -18,10 +18,12 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 	<title></title>
 
 	<link rel="stylesheet" href="<?php echo $site_url ;	?>/css/style.css">
+	<link rel="stylesheet" href="<?php echo $site_url ;	?>/fonts/stylesheet.css">
 </head>
 <body>
+	<div class="container">
 	<header>
-		<div class="container">
+		<div class="">
 			<nav class="header-logos">
 				<div class="fect_logo">
 					<a href="<?php echo $site_url ;	?>"><img src="<?php echo $site_url ;	?>/images/FACT-LOGO.png"></a>
@@ -40,5 +42,3 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 		
 	</header>
 
-</body>
-</html>
