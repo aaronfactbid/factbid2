@@ -8,6 +8,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 	
 	/** DB Connection file */
 	require_once('config.php');
+	header("Cache-Control: public, max-age=600");
 ?>
 <!DOCTYPE html>
 <html>
