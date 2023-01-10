@@ -63,6 +63,7 @@ if(mysqli_num_rows($result) > 0) {  ?>
 <?php
 	   } ?>
 	   </table>
+	   <p class="bottom-text">Generated 2022-12-28 1:50pm</p>
 <?php	}
 	 else {
 	  echo "0 results";

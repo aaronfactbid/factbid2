@@ -1,22 +1,37 @@
 *{
     margin:0px;
     padding: 0px;
+    
 }
-.container {
+@font-face {
+    font-family: 'Arial';
+    src: url('ArialMT.woff2') format('woff2'),
+        url('ArialMT.woff') format('woff');
+    font-style: normal;
+    font-display: swap;
+}
+
+a, table {
+      Color: #0000FF;
+    font-family: Arial; 
+}
+.fact_bidtable thead th {
+    position: sticky !important;
+    top: 0 !important;
+}
+ .container {
     width: 100%;
-    max-width: 1440px;
+    max-width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
     margin: 0 auto;
 }
 header{
-    /* background-color: #e5e5e5; */
     padding: 13px 0px;
 }
 .header-logos ul {
     display: flex;
-}
-section, header{
-    padding-left: 15px;
-    padding-right: 15px;
 }
 nav.header-logos {
     display: flex;
@@ -36,7 +51,7 @@ nav.header-logos {
     gap: 5px;
 }
 .wrapper_logo img {
-    width: 26px !important;
+    width: 26px ;
     margin-top: 4px;
 }
 .header-logos ul li {
@@ -56,11 +71,7 @@ nav.header-logos {
 }
 /*******banner************/
 .fact_banerr {
-/*    display: flex;
-    justify-content: space-between;
-    gap: 50px;
-    align-items: center;*/
-    padding: 50px 0px 80px;
+    padding: 20px 0px 40px;
     text-align: left;
     width: 100%;
 }
@@ -71,16 +82,17 @@ nav.header-logos {
     display: none;
 }
 h1 {
-    font-size: 55px;
-    font-family: Montserrat;
-    font-weight: 700;
-    line-height: 67px;
+    font-size: 32px;
+    font-family: Arial;
+    font-weight: 400;
+    line-height: 44px;
     color: #111;
+    text-transform: capitalize;
 }
  p {
-    font-size: 18px;
-    line-height: 30px;
-    font-family: poppins;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: Arial;
     margin-top: 20px;
 }
 button.fact-bannerbtn a{
@@ -91,7 +103,7 @@ button.fact-bannerbtn a{
     min-height: 50px;
     padding: 10px 20px;
     font-size: 20px;
-    font-family: poppins;
+    font-family: Arial;
     border-radius: 5px;
     border: 1px solid #628aec;
     cursor: pointer;
@@ -108,58 +120,95 @@ button.fact-bannerbtn {
     margin-top: 40px;
     background-color: transparent;
 }
-/*.fact_banerr>div:nth-child(1) {
-    width: 50%;
-}
-.fact_banerr .img_fact {
-    width: 50%;
-}*/
-/*.img_fact img {
-    max-width: 100%;
-    width: 100%;
-}*/
+
 /*******factbid_wrapsec******/
-section.factbid_wrapsec {
-    background: #f8f8f8;
-    padding: 70px 15px;
+
+.fact_bidtable table {
+  width: 100%;
+  text-align: center;
+  border-collapse: separate; /* Don't collapse */
+  border-spacing: 0;
+}
+
+.fact_bidtable table th {
+    border-bottom: 2px solid;
+    border-right: 2px solid #ddd;
+}
+
+/*.fact_bidtable table td {
+  border-bottom: 2px solid;
+  border-right: 2px solid;
+}*/
+
+.fact_bidtable table thead th:first-child {
+    border-left: 2px solid;
+}
+.fact_bidtable table tbody th:last-child {
+    border-right: 0px;
+}
+.bidswrap table thead tr th:last-child {
+    border-color: #000;
+}
+.bidswrap table tbody tr td {
+    border-bottom: 2px solid #000;
+}
+.bidswrap table tbody td {
+    border-right: 2px solid #ddd;
+}
+.bidswrap table tbody td:last-child {
+    border-right: 0px;
+}
+:root p.bottom-text {
+    text-align: left;
+    margin: 0px !important;
+}
+.fact_bidtable table thead th {
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+}
+.fact_bidtable table thead tr th {
+    border-top: 2px solid #000;
+}
+.heading-row{
+    position: sticky;
+    top: 0;
 }
 .factbid_wrap {
     text-align: center;
 }
 .fact_bidtable table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-  color: #111;
+    font-family: Arial;
+    color: #111;
+    width: 100%;
+    max-width: 970px;
 }
 
 .fact_bidtable td, .fact_bidtable th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 15px;
+    text-align: left;
+    padding: 10px;
 }
+
 .fact_bidtable {
-    padding-top: 50px;
-}
-.fact_bidtable a {
-    color: #111;
+    padding-top: 25px;
 }
 .fact_bidtable td h2 {
-    font-family: Montserrat;
-    font-size: 18px;
+    font-family: Arial;
+    font-size: 22px;
     font-weight: 600;
     margin: 0px;
     padding: 10px 0px 0px;
+    text-transform: capitalize;
 }
-.fact_bidtable th {
-    font-size: 20px;
-    font-family: montserrat;
-    font-weight: 600;
+.fact_bidtable th, .bidswrap table tr td {
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: 400;
 }
 .fact_bidtable p {
     font-size: 16px;
     line-height: 28px;
-    font-family: poppins;
+    font-family: Arial;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -173,14 +222,45 @@ section.factbid_wrapsec {
     height: 9px;
 }
 .fact_bidtable th {
-    background: #efefef;
+    background: #ffffff;
     white-space: pre;
+}
+.fact_bidtable table thead th:nth-child(5) {
+    border-right: 2px solid #000;
+}
+/*******bidwrapper**********/
+.bidswrapper p {
+    padding: 20px 0px;
+    margin-top: 0px;
+}
+.bidswrap table {
+    width: 100%;
+    max-width: 630px;
+}
+.bidswrap table tbody tr>td:nth-child(3) {
+    font-weight: 700;
+}
+.bid-bid {
+    font-family: 'Arial';
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 600px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.bid-bid span {
+    font-size: 14px;
+    line-height: 26px;
 }
 @media (max-width:1440px){
     .container {
     width: 100%;
     max-width: 1140px;
     margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
 }
 }
 @media (max-width:1024px){
@@ -188,45 +268,69 @@ section.factbid_wrapsec {
     width: 100%;
     max-width: 768px;
     margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
 }
 }
 @media (max-width:991px){
-:root .fact_banerr {
-    flex-direction: column;
-}
 :root .fact_banerr>div:nth-child(1) {
     width: 100%;
 }
 :root .fact_banerr .img_fact {
     width: 100%;
 }
-.fact_bidtable {
-    overflow-x: scroll;
-}
 }
 @media (max-width:767px){
-
-.container {
+:root .fact_banerr {
+    padding: 20px 0px 40px;
+}
+:root .fect_logo img {
     width: 100%;
-    max-width: 600px;
-} 
-
-:root .fact_bidtable th {
+    max-width: 120px;
+}
+.fact_bidtable td h2 {
     font-size: 18px;
 }
-h1 {
-    font-size: 40px;
-    line-height: 52px;
+:root .header-logos ul li {
+    width: 30px;
+    height: 30px;
 }
- p {
-    font-size: 16px;
-    line-height: 28px;
-    font-family: poppins;
-    margin-top: 20px;
+:root .wrapper_logo img {
+    width: 20px;
+    margin-top: 4px;
 }
-}
-@media (max-width:500px){
-  :root nav.header-logos {
+:root .bid-bid {
     flex-direction: column;
-}  
+    padding-bottom: 0px;
 }
+:root .bid-bid span {
+    font-size: 12px;
+    line-height: 24px;
+}
+:root .container {
+    width: 100%;
+    max-width: 600px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+:root .fact_bidtable td, :root .fact_bidtable th {
+    padding: 6px;
+} 
+
+:root .fact_bidtable th, .bidswrap table tr td {
+    font-size: 12px;
+}
+:root h1 {
+    font-size: 28px;
+    line-height: 40px;
+}
+:root p {
+    font-size: 14px;
+    line-height: 26px;
+    font-family: Arial;
+    margin-top: 10px;
+}
+}
+
