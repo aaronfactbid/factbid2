@@ -3,11 +3,14 @@ This is the PHP front end which displays the hashtags, bids and claims table fro
 There is a separate back end process which polls the tweets and stores them in a tweet table and calls a mysql procedure to populate hashtags, bids and claims
 
 --Deployment instructions for front end when logged in as root:
-apt install git
+apt install git zip
 cd /opt
 git clone https://github.com/aaronfactbid/factbid2.git
 rm -rf /var/www/html
 ln -s /opt/factbid2 /var/www/html
+mkdir /var/www/html/download/
+chmod 777 /var/www/html/download/
+
 #enable modrewrite so /HashTag works
 a2enmod rewrite
 systemctl restart apache2

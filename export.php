@@ -19,21 +19,40 @@ if($id_hashtag == 0 )
 	echo "Invalid hashtag";
 	exit(1);
 }
+
+$directory = "/var/www/html/download/";
+$filename = date('Y-d-m_h-i-s', time()) . '_' . $current_hashtag;
 	
 // get bids
-$query = "SELECT author_username,author_id,CONCAT('https://twitter.com/',author_username,'/status/',id_twitter) AS URL,created_ts,currency,amount,exclude FROM bid WHERE `id_hashtag`='" . $id_hashtag . "';";
+$query = "SELECT 'author_username', 'author_id', 'url', 'created_at','currency','amount','bid_outdated' UNION ALL " .
+		"SELECT IFNULL(author_username,''),IFNULL(author_id,''),CONCAT('https://twitter.com/',IFNULL(author_username,''),'/status/',IFNULL(id_twitter,'')) AS URL,IFNULL(created_ts,''),IFNULL(currency,''),IFNULL(amount,''),IFNULL(exclude,'') FROM bid WHERE `id_hashtag`='" . $id_hashtag . "' INTO OUTFILE '" . $directory . $filename . ".csv' FIELDS ENCLOSED BY '\"' TERMINATED BY ',' ESCAPED BY '\"' LINES TERMINATED BY '\r\n';";
+echo $query;
 if (!$result = mysqli_query($conn, $query)) {
+	echo "Database error outputing CSV file";
     exit(mysqli_error($conn));
 }
 
-$bids = array();
+$zip_command = "zip -j " . $directory . $filename . ".zip " . $directory . $filename . ".csv ; rm " . $directory . $filename;
+$download_path = "/download/" . $filename . ".zip";
 
-if (mysqli_num_rows($result) > 0) {
-    while ($row = mysqli_fetch_assoc($result)) {
-        $bids[] = $row;
-    }
+shell_exec($zip_command);
+
+$full_path = $directory . $filename . ".zip ";
+
+/*if(file_exists($full_path)){ */
+	header('Content-Type: application/zip');
+	header('Content-Disposition: attachment; filename=" . $download_path . "');
+	header('Content-Length: ' . filesize($directory . $filename . '.zip'));
+	header('Location: '.$download_path);
+/*}
+else
+{
+	echo "error generating file";
 }
+*/
 
+/*
+This overflows php's memory with 1 million records, so I switched to redirecting to the file above
 header('Content-Type: text/csv; charset=utf-8');
 header('Content-Disposition: attachment; filename=bids_' . $current_hashtag . '.csv');
 $output = fopen('php://output', 'w');
@@ -44,5 +63,6 @@ if (count($bids) > 0) {
         fputcsv($output, $row);
     }
 }
+*/
 
 ?>

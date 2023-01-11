@@ -11,20 +11,20 @@
 <section>
 		<div class="fact_banerr">
 			<div>
-				<h1>How It Works</h1>
-				<p>The next time it seems we’re not getting the whole story, come up with a unique hashtag for whatever facts are missing that a whistleblower could provide.  Write a tweet indicating the controversy and what facts the whistleblower would need to prove.  Include the amount you are willing to bid (with a $ € or £ before), or offer the whistleblower.  Include your hashtag plus #factbid.  Get your friends to tweet your hashtag plus their bid and #factbid.<br>
-					<br>
-
-The first tweet with your hashtag is the ‘author’ and links to the original tweet.  Everyone can start a tweet with the hashtags filled in and a default bid of $20 by clicking ‘bid’.  Edit the amount and tweet before sending.
-<br>
-					<br>
-Potential whistleblowers can see all the bidders and communicate with them using the author’s tweet.  When you have confirmed you have the data to satisfy the bidders, click ‘claim’ to start a tweet with #factbidclaim.  It must include links to the facts and your donation instructions.
-</p>
+				<h1>How it works</h1>
+				<p>Create a hashtag for some fact that a whistleblower could produce, like #EpsteinClientList.
+				Tweet an explanation of the issue, what facts are needed,  how much you are willing to bid for those facts and include your hashtag plus #factbid.
+				For example, attach a video or blog post to a tweet that reads: <b><i>I bid $50 for a whistleblower to produce the #EpsteinClientList.  #factbid</b></i></p>
+				<p>This page lists all tweets with some hashtag(s) plus #factbid and a valid bid, meaning $ € or £ followed by an amount.
+				Whatever tweet is the first will be shown below as the 'author' with the total tweets.  Select the hashtag to see the full list of tweets.
+				Get your followers to tweet their own bid.  The easiest way is to click the 'bid' link, which starts a tweet with the hashtags filled in, ready to edit the amount and send.
+				</p>
+				<p>To learn more visit <a href="https://factbid.substack.com/about">https://factbid.substack.com/about</a></p>
 			</div>
 </section>
 <section class="factbid_wrapsec">
 		<div class="factbid_wrap">
-			<h1>List of factbid tweets</h1>
+			<h1>List of #factbid tweets</h1>
 
 			<div class="fact_bidtable">
 				
@@ -57,13 +57,12 @@ if(mysqli_num_rows($result) > 0) {  ?>
 		<th><a href="/<?php echo  $row['hashtag']; ?>"><?php echo  $row['bids']; ?></a></th>
 		<th>$<?php echo number_format($row['total']);  ?></th>
 		<th><a href="<?php echo $current_url ;	?>/claims.php?claims=<?php echo $row['id_hashtag']; ?>"><?php echo $row['claims'];  ?></a></th>
-		<th><a href="#">bid</a></th>
-		<th><a href="https://twitter.com/search?q=<?php echo  $row['author_username']; ?>">claim</a></th>
+		<th><a href="<?php echo tweet_bid($row['hashtag'],$row['id_twitter'],$row['author_username'],$row['template']); ?>">bid</a></th>
+		<th><a href="<?php echo tweet_claim($row['hashtag'],$row['id_twitter'],$row['author_username'],$row['template']); ?>">claim</a></th>
 	</tr>
 <?php
 	   } ?>
 	   </table>
-	   <p class="bottom-text">Generated 2022-12-28 1:50pm</p>
 <?php	}
 	 else {
 	  echo "0 results";

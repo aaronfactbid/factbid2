@@ -8,7 +8,31 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 	
 	/** DB Connection file */
 	require_once('config.php');
-	header("Cache-Control: public, max-age=600");
+	
+	function tweet_bid($hashtag,$id_twitter,$author_username,$template) {
+		$url = "https://twitter.com/intent/tweet?";
+		
+		if( $template == NULL ) {
+			$template = "I bid $20 for a whistleblower to turn over the #" . $hashtag . " evidence. #factbid";
+		}
+
+		$url .= "text=" . urlencode($template);
+		$url .= "&url=https://twitter.com/" . $author_username . "/status/" . $id_twitter;
+		/* $url .= "&via=" . $author_username . "&in_reply_to=" . $id_twitter; */
+		return $url;
+	}
+
+	function tweet_claim($hashtag,$id_twitter,$author_username,$template) {
+		$url = "https://twitter.com/intent/tweet?";
+		
+		$template = "I am a whistleblower. Here is the evidence for #" . $hashtag . " and my donation instructions. #factbidclaim";
+
+		$url .= "text=" . urlencode($template);
+		$url .= "&url=https://twitter.com/" . $author_username . "/status/" . $id_twitter;
+		/* $url .= "&via=" . $author_username . "&in_reply_to=" . $id_twitter; */
+		return $url;
+	}
+
 ?>
 <!DOCTYPE html>
 <html>
