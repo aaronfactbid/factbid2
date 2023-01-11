@@ -1,4 +1,4 @@
-<p><sub>
+<p>
 <?php	
 $sql = "SELECT id_process,UNIX_TIMESTAMP(finished_ts) AS finished_int,UNIX_TIMESTAMP(tweet_last_ts) AS tweet_last_int FROM `process` WHERE finished_ts IS NOT NULL ORDER BY id_process DESC LIMIT 1;";
 $result_footer = mysqli_query($conn, $sql);
@@ -9,7 +9,7 @@ if(mysqli_num_rows($result_footer) > 0) {
 	echo 'document.write("Generated: " + date_generated.toLocaleString()); document.write(" Last polled: " + date_polled.toLocaleString()); document.write(" Last tweet: " + date_last.toLocaleString());</script>';
 }
 ?>
-</sub></p>
+</p>
 </div>
 </body>
 </html>
