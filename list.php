@@ -3,11 +3,6 @@
    $current_hashtag = $_GET['hashtag'];
    ?>
 
-   <div class="bidswrapper">
-   	<p>
-   	Here are the 100 most recent and largest bids.  <a href="/export.php?hashtag=<?php echo $current_hashtag; ?>">Download</a> the full list as a CSV spreadsheet.
-   </p></div>
-
    <?php
  
  	$sql = "SELECT *,UNIX_TIMESTAMP(created_ts) AS created_int FROM hashtag WHERE `hashtag`='" . $current_hashtag . "' LIMIT 1;";
@@ -24,6 +19,14 @@
 		$result = mysqli_query($conn, $sql);
 
 	?>
+   <div class="bidswrapper">
+   	<p>
+	Tweet your own <a href="<?php echo tweet_bid($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username'],$row_ht['template']); ?>">bid</a>.
+	Or if you are a whistleblower with the evidence being sought, tweet a <a href="<?php echo tweet_claim($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username']); ?>">claim</a>
+	</p><p>
+   	Here are the 100 most recent and largest bids.  <a href="/export.php?hashtag=<?php echo $current_hashtag; ?>">Download</a> the full list as a CSV spreadsheet.
+   </p></div>
+
 	<section class="bidswrap">
 		<p>100 most recent tweet bids</p>
 		<div class="fact_bidtable">

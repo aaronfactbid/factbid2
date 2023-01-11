@@ -22,7 +22,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 		return $url;
 	}
 
-	function tweet_claim($hashtag,$id_twitter,$author_username,$template) {
+	function tweet_claim($hashtag,$id_twitter,$author_username) {
 		$url = "https://twitter.com/intent/tweet?";
 		
 		$template = "I am a whistleblower. Here is the evidence for #" . $hashtag . " and my donation instructions. #factbidclaim";
