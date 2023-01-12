@@ -65,7 +65,7 @@ if(mysqli_num_rows($result) > 0) {  ?>
 	   </table>
 <?php	}
 	 else {
-	  echo "0 results";
+	  echo "No tweets with #factbid yet.  You can be the first.";
 	}   ?>
 
 

@@ -13,7 +13,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 		$url = "https://twitter.com/intent/tweet?";
 		
 		if( $template == NULL ) {
-			$template = "I bid $20 for a whistleblower to turn over the #" . $hashtag . " evidence. #factbid";
+			$template = "I bid $20 for a whistleblower to turn over the #" . $hashtag . " evidence. #factbid. Track bids and add your own at https://factbid.org/" . $hashtag;
 		}
 
 		$url .= "text=" . urlencode($template);
