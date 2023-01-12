@@ -211,8 +211,6 @@ button.fact-bannerbtn {
     font-family: Arial;
     margin-top: 10px;
     margin-bottom: 10px;
-    white-space: -webkit-nowrap;
-    word-break: break-word;
 }
 ::-webkit-scrollbar-track {
     background: #e9e9e9;
@@ -255,6 +253,16 @@ button.fact-bannerbtn {
     font-size: 14px;
     line-height: 26px;
 }
+.claimwrap table {
+    width: 100%;
+    max-width: 450px;
+}
+/*****footer****/
+p.footer-text {
+    margin-top: 0px;
+    font-size: 16px;
+    line-height: 28px;
+}
 @media (max-width:1440px){
     .container {
     width: 100%;
@@ -287,6 +295,11 @@ button.fact-bannerbtn {
 :root .fact_banerr {
     padding: 20px 0px 40px;
 }
+:root p.footer-text {
+    margin-top: 0px;
+    font-size: 8px;
+    line-height: 18px;
+}
 :root .fect_logo img {
     width: 100%;
     max-width: 120px;
@@ -318,8 +331,9 @@ button.fact-bannerbtn {
     box-sizing: border-box;
 }
 :root .fact_bidtable td, :root .fact_bidtable th {
-    padding: 4px;
-}
+    padding: 6px;
+} 
+
 :root .fact_bidtable th, .bidswrap table tr td {
     font-size: 12px;
 }
