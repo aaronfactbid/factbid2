@@ -25,6 +25,7 @@
 <section class="factbid_wrapsec">
 		<div class="factbid_wrap">
 			<h1>List of #factbid tweets</h1>
+			<p>There is a 10 minute delay before tweets appear.</p>
 
 			<div class="fact_bidtable">
 				
