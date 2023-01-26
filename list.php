@@ -24,7 +24,7 @@
    <?php echo $row_ht['title']; ?>
    </p>
    	<p>
-	<a href="<?php echo tweet_bid($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username'],$row_ht['template']),$row_ht['tweet_url']; ?>"><img src="/images/click-tweet.png"></a>
+	<a href="<?php echo tweet_bid($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username'],$row_ht['template'],$row_ht['tweet_url']); ?>"><img src="/images/click-tweet.png"></a>
 	</p>
 	<p>
    	This page tracks all tweets containing <b>#<?php echo $row_ht['hashtag']; ?></b> plus an amount plus <b>#factbid</b>.  
