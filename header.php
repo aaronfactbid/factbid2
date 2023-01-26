@@ -10,7 +10,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 	require_once('config.php');
 	header("Cache-Control: public, max-age=600");
 	
-	function tweet_bid($hashtag,$id_twitter,$author_username,$template) {
+	function tweet_bid($hashtag,$id_twitter,$author_username,$template,$tweet_url) {
 		$url = "https://twitter.com/intent/tweet?";
 		
 		if( $template == NULL ) {
@@ -18,8 +18,12 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 		}
 
 		$url .= "text=" . urlencode($template);
-		if( $template == NULL ) {
+		if( $tweet_url == NULL ) {
 			$url .= "&url=https://twitter.com/" . $author_username . "/status/" . $id_twitter;
+		}
+		else
+		{
+			$url .= "&url=" . $tweet_url;
 		}
 		/* $url .= "&via=" . $author_username . "&in_reply_to=" . $id_twitter; */
 		return $url;

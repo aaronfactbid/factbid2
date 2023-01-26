@@ -58,7 +58,7 @@ if(mysqli_num_rows($result) > 0) {  ?>
 		<th><a href="/<?php echo  $row['hashtag']; ?>"><?php echo  $row['bids']; ?></a></th>
 		<th>$<?php echo number_format($row['total']);  ?></th>
 		<th><a href="/claims.php?claims=<?php echo $row['id_hashtag']; ?>"><?php echo $row['claims']; ?></a></th>
-		<th><a href="<?php echo tweet_bid($row['hashtag'],$row['id_twitter'],$row['author_username'],$row['template']); ?>">bid</a></th>
+		<th><a href="<?php echo tweet_bid($row['hashtag'],$row['id_twitter'],$row['author_username'],$row['template'],$row['tweet_url']); ?>">bid</a></th>
 		<th><a href="<?php echo tweet_claim($row['hashtag'],$row['id_twitter'],$row['author_username']); ?>">claim</a></th>
 	</tr>
 <?php
