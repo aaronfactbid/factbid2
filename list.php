@@ -20,15 +20,21 @@
 
 	?>
    <div class="bidswrapper">
+   <p>
+   <?php echo $row_ht['title']; ?>
+   </p>
    	<p>
-	Tweet your own <a href="<?php echo tweet_bid($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username'],$row_ht['template']); ?>">bid</a>.
-	Or if you are a whistleblower with the evidence being sought, tweet a <a href="<?php echo tweet_claim($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username']); ?>">claim</a>
+	<a href="<?php echo tweet_bid($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username'],$row_ht['template']); ?>"><img src="/images/click-tweet.png"></a>
+	</p>
+	<p>
+   	This page tracks all tweets containing <b>#<?php echo $row_ht['hashtag']; ?></b> plus an amount plus <b>#factbid</b>.  
+	To add your offer click the blue button to start a tweet with the hashtags.
+	See <a href="/">all hashtags</a>, <a href="https://factbid.substack.com/about">how it works</a>, or if you are a whistleblower tweet a <a href="<?php echo tweet_claim($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username']); ?>">claim</a>.
 	</p><p>
-   	Here are the 100 most recent and largest bids.  <a href="/export.php?hashtag=<?php echo $current_hashtag; ?>">Download</a> the full list as a CSV spreadsheet.
    </p></div>
 
 	<section class="bidswrap">
-		<p>100 most recent tweet bids</p>
+		<p><b>100 most recent tweets, or <a href="/export.php?hashtag=<?php echo $current_hashtag; ?>">download</a> the full list as a CSV spreadsheet.</b></p>
 		<div class="fact_bidtable">
 			<table>
 				<thead>
@@ -59,7 +65,7 @@
 
 	?>
 	<section class="bidswrap">
-		<p>100 largest tweet bids</p>
+		<p><b>100 largest tweet bids</b></p>
 		<div class="fact_bidtable">
 			<table>
 				<thead>

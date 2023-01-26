@@ -14,7 +14,7 @@
 				<h1>How it works</h1>
 				<p>Create a hashtag for some fact that a whistleblower could produce, like #EpsteinClientList.
 				Tweet an explanation including what facts you are offering to reward a whistleblower to provide and how much you are willing to bid.  The tweet must include your hashtag plus #factbid.
-				For example, create a video or blog post explaining some controversy you want to resove and attach it to a tweet that has your hashtag, like: <b><i>I bid $50 for a whistleblower to produce the #EpsteinClientList.  #factbid</b></i></p>
+				For example, create a video or blog post explaining some controversy you want to resolve and attach it to a tweet that has your hashtag, like: <b><i>I bid $50 for a whistleblower to produce the #EpsteinClientList.  #factbid</b></i></p>
 				<p>This page lists all tweets with some hashtag(s) plus #factbid and a valid bid, meaning $ € or £ followed by an amount.
 				Whatever tweet is the first with that hashtag is shown as the 'author'.  This page shows the hashtag and total tweets.  Select the hashtag to see the full list of tweets.
 				Get your followers to tweet their own bid.  The easiest way is to click the 'bid' link, which starts a tweet with the hashtags filled in, ready to edit the amount and send.
