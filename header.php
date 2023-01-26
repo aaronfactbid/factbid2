@@ -18,7 +18,9 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 		}
 
 		$url .= "text=" . urlencode($template);
-		$url .= "&url=https://twitter.com/" . $author_username . "/status/" . $id_twitter;
+		if( $template == NULL ) {
+			$url .= "&url=https://twitter.com/" . $author_username . "/status/" . $id_twitter;
+		}
 		/* $url .= "&via=" . $author_username . "&in_reply_to=" . $id_twitter; */
 		return $url;
 	}
