@@ -11,6 +11,11 @@
 <section>
 		<div class="fact_banerr">
 			<div>
+				<h1>UPDATE: February 9, 2023</h1>
+				<p>After several months of promotions, including over $5,000 spent on Twitter marketing to reach over 1 million people,
+				nobody has tweeted offers to support whistleblowers, so FactBid is being suspended.
+				The <a href="https://github.com/aaronfactbid">source code</a> will remain available should anyone who wish to take over.</p>
+
 				<h1>How it works</h1>
 				<p>Create a hashtag for some fact that a whistleblower could produce, like #EpsteinClientList.
 				Tweet an explanation including what facts you are offering to reward a whistleblower to provide and how much you are willing to bid.  The tweet must include your hashtag plus #factbid.
