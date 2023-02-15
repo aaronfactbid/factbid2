@@ -21,10 +21,10 @@
 	?>
    <div class="bidswrapper">
 
-	<h1>UPDATE: February 9, 2023</h1>
-	<p><b><i>After several months of promotions, including over $5,000 spent on Twitter marketing to reach over 1 million people,
-	nobody has tweeted offers to support whistleblowers, so FactBid is being suspended.
-	The <a href="https://github.com/aaronfactbid">source code</a> will remain available should anyone who wish to take over.</b></i></p>
+	<h1>UPDATE: February 15, 2023</h1>
+	<p><b><i>Users have concern over retribution from sending PUBLIC tweets with offers for whistleblowers.
+	If you would like to see a new FactBid 3.0 that allows anonymous tweets, please add comments to the 
+	<a href="https://twitter.com/factbid/status/1625864931890307073">video tweet</a> and read the proposal at <a href="https://factbid.substack.com/p/factbid3">https://factbid.substack.com/p/factbid3</a>.</b></i></p>
 
    <p>
    <?php echo $row_ht['title']; ?>
