@@ -32,20 +32,3 @@ systemctl restart apache2
 #I test changes locally before committing and then when ready to update do: cd /var/www/html; cp config.php ~/; git reset --hard; git pull; cat ~/config.php > config.php
 
 
---populating the mysql database
-#I use ssh port forwarding so I can run sqlyog locally
-ssh -p 2222 -i aaron_dev_factbid aaron@dev.factbid.org -L 3306:127.0.0.1:3306
-#I created the database like this
-CREATE DATABASE factbid CHARACTER SET=utf8mb4 COLLATE=utf8mb4_general_ci;
-#and created a user for php
-GRANT ALL ON *.* TO my_user@'%' IDENTIFIED BY 'my_password';
-#then update the config.php file in /var/www/html to use the credentials
-#to log all queries for debug purposes add to /etc/mysql/conf.d/mysql.cnf
-[mysqld]
-log_slow_queries
-log_queries_not_using_indexes =1
-long_query_time = 1
-slow_query_log = 1
-general_log = 1
-slow_query_log_file = /var/log/mysql/slow_query.log
-general_log_file = /var/log/mysql/query.log
