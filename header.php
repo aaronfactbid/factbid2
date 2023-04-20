@@ -14,7 +14,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 		$url = "https://twitter.com/intent/tweet?";
 		
 		if( $template == NULL ) {
-			$template = "I bid $20 for a whistleblower to turn over the #" . $hashtag . " evidence. #factbid. Track bids and add your own at https://factbid.org/" . $hashtag;
+			$template = "I bid $20 #" . $hashtag . ". #factbid. Track bids and add your own at https://factbid.org/" . $hashtag;
 		}
 
 		$url .= "text=" . urlencode($template);
@@ -32,7 +32,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 	function tweet_claim($hashtag,$id_twitter,$author_username) {
 		$url = "https://twitter.com/intent/tweet?";
 		
-		$template = "I am a whistleblower. Here is the evidence for #" . $hashtag . " and my donation instructions. #factbidclaim";
+		$template = "Here is the evidence for #" . $hashtag . " and my donation instructions. #factbidclaim";
 
 		$url .= "text=" . urlencode($template);
 		$url .= "&url=https://twitter.com/" . $author_username . "/status/" . $id_twitter;
@@ -56,20 +56,39 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 	<header>
 		<div class="">
 			<nav class="header-logos">
-				<div class="fect_logo">
-					<a href="<?php echo $site_url ;	?>"><img src="<?php echo $site_url ;	?>/images/FACT-LOGO.png"></a>
-				</div>
-				<div class="wrapper_logo">
-					<ul>
-						<li><a href="https://twitter.com/factbid"><img src="<?php echo $site_url ;	?>/images/Twitter.png"></a></li>
-						<li><a href="https://factbid.substack.com/about"><img src="<?php echo $site_url ;	?>/images/SubStack.png"></a></li>
-						<li><a href="https://github.com/aaronfactbid"><img src="<?php echo $site_url ;	?>/images/Git_Hub.png"></a></li>
-						<li><a href="mailto:admin@factbid.org"><img src="<?php echo $site_url ;	?>/images/Mail.png"></a></li>
-					</ul>
-				</div>
-			
-		
-	</nav>
-		
+				<table>
+				<tr>
+				<td>
+					<div class="fect_logo">
+						<a href="<?php echo $site_url ;	?>"><img src="<?php echo $site_url ;	?>/images/logo-round-medium.png"></a>
+					</div>
+				</td>
+				<td>
+					<table>
+					<tr>
+						<div class="wrapper_logo">
+						AI analzies<br>
+						Humans gather
+						</div>
+					</tr>
+					<tr>
+					<div class="wrapper_logo">
+						<ul>
+							<li><a href="https://twitter.com/factbid"><img src="<?php echo $site_url ;	?>/images/Twitter.png"></a></li>
+							<li><a href="https://rumble.com/factbid"><img src="<?php echo $site_url ;	?>/images/rumble.png"></a></li>
+							<li><a href="https://youtube.com/@factbidorg"><img src="<?php echo $site_url ;	?>/images/youtube.png"></a></li>
+							<li><a href="https://factbid.substack.com/about"><img src="<?php echo $site_url ;	?>/images/SubStack.png"></a></li>
+							<li><a href="https://github.com/aaronfactbid"><img src="<?php echo $site_url ;	?>/images/Git_Hub.png"></a></li>
+							<li><a href="mailto:admin@factbid.org"><img src="<?php echo $site_url ;	?>/images/Mail.png"></a></li>
+						</ul>
+					</div>
+					</tr>
+					</table>
+				</td>
+				</tr>
+				</table>
+			</nav>
+		</div>
+	</div>
 	</header>
 

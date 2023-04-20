@@ -3,17 +3,9 @@
     padding: 0px;
     
 }
-@font-face {
-    font-family: 'Arial';
-    src: url('ArialMT.woff2') format('woff2'),
-        url('ArialMT.woff') format('woff');
-    font-style: normal;
-    font-display: swap;
-}
-
 a, table {
       Color: #0000FF;
-    font-family: Arial; 
+    font-family: FuturaPT-Book; 
 }
 .fact_bidtable thead th {
     position: sticky !important;
@@ -83,7 +75,7 @@ nav.header-logos {
 }
 h1 {
     font-size: 32px;
-    font-family: Arial;
+    font-family: Gotham-Medium;
     font-weight: 400;
     line-height: 44px;
     color: #111;
@@ -92,7 +84,7 @@ h1 {
  p {
     font-size: 16px;
     line-height: 28px;
-    font-family: Arial;
+    font-family: FuturaPT-Book;
     margin-top: 20px;
 }
 button.fact-bannerbtn a{
@@ -103,7 +95,7 @@ button.fact-bannerbtn a{
     min-height: 50px;
     padding: 10px 20px;
     font-size: 20px;
-    font-family: Arial;
+    font-family: FuturaPT-Book;
     border-radius: 5px;
     border: 1px solid #628aec;
     cursor: pointer;
@@ -178,7 +170,7 @@ button.fact-bannerbtn {
     text-align: center;
 }
 .fact_bidtable table {
-    font-family: Arial;
+    font-family: FuturaPT-Book;
     color: #111;
     width: 100%;
     max-width: 970px;
@@ -193,7 +185,7 @@ button.fact-bannerbtn {
     padding-top: 25px;
 }
 .fact_bidtable td h2 {
-    font-family: Arial;
+    font-family: FuturaPT-Book;
     font-size: 22px;
     font-weight: 600;
     margin: 0px;
@@ -202,13 +194,13 @@ button.fact-bannerbtn {
 }
 .fact_bidtable th, .bidswrap table tr td {
     font-size: 16px;
-    font-family: Arial;
+    font-family: FuturaPT-Book;
     font-weight: 400;
 }
 .fact_bidtable p {
     font-size: 16px;
     line-height: 28px;
-    font-family: Arial;
+    font-family: FuturaPT-Book;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -241,7 +233,7 @@ button.fact-bannerbtn {
     font-weight: 700;
 }
 .bid-bid {
-    font-family: 'Arial';
+    font-family: 'FuturaPT-Book';
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -344,7 +336,7 @@ p.footer-text {
 :root p {
     font-size: 14px;
     line-height: 26px;
-    font-family: Arial;
+    font-family: FuturaPT-Book;
     margin-top: 10px;
 }
 }
