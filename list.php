@@ -20,12 +20,6 @@
 
 	?>
    <div class="bidswrapper">
-
-	<h1>UPDATE: February 15, 2023</h1>
-	<p><b><i>Users have concern over retribution from sending PUBLIC tweets with offers for whistleblowers.
-	If you would like to see a new FactBid 3.0 that allows anonymous tweets, please add comments to the 
-	<a href="https://twitter.com/factbid/status/1625864931890307073">video tweet</a> and read the proposal at <a href="https://factbid.substack.com/p/factbid3">https://factbid.substack.com/p/factbid3</a>.</b></i></p>
-
    <p>
    <?php echo $row_ht['title']; ?>
    </p>
@@ -35,7 +29,7 @@
 	<p>
    	This page tracks all tweets containing <b>#<?php echo $row_ht['hashtag']; ?></b> plus an amount plus <b>#factbid</b>.  
 	To add your offer click the blue button to start a tweet with the hashtags.
-	See <a href="/">all hashtags</a>, <a href="https://factbid.substack.com/about">how it works</a>, or if you are a whistleblower tweet a <a href="<?php echo tweet_claim($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username']); ?>">claim</a>.
+	See <a href="/">all hashtags</a>, <a href="https://factbid.substack.com/about">how it works</a>, or if you can provide the facts tweet a <a href="<?php echo tweet_claim($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username']); ?>">claim</a>.
 	</p><p>
    </p></div>
 

@@ -249,6 +249,16 @@ button.fact-bannerbtn {
     width: 100%;
     max-width: 450px;
 }
+
+
+/*****footer****/
+.fact_qa {
+    padding: 20px 0px 40px;
+    text-align: left;
+    width: 100%;
+	background-color: #ecf0f3  !important;
+}
+
 /*****footer****/
 p.footer-text {
     margin-top: 0px;
@@ -341,3 +351,7 @@ p.footer-text {
 }
 }
 
+.thumbnail-link {
+  width: auto;
+  height: 20px;
+}

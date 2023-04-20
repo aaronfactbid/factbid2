@@ -7,55 +7,64 @@
 	setlocale(LC_MONETARY,"en_US");
 ?>
 
+
 <!--------banner------------->
 <section>
-		<div class="fact_banerr">
-			<div>
-				<h1>UPDATE: April 20, 2023</h1>
-				<p><b><i>FactBid's developer, Aaron, will now focus his efforts
-				on crowdsourcing facts that are not controversial
-				and which ChatGPT's AI determines are beneficial for humanity.
-				FactBid is in the public domain so everyone is free to tweet 
-				anything they want with #factbid including rewards for whistleblowers.</b></i></p>
-
-				<h1>How it works</h1>
-				<p>Everyone is free to use this for any purpose.
-				Create a hashtag for any fact that you cannot find the answer to, 
-			 	but that someone or some group could provide with the proper incentive.
-				Include your hashtag in a tweet along with #factbid and your monetary offer.<br>
-				For example: <b><i>I bid $50 for a scientific study analyzing the probability of humans #LivingOnMars #factbid</b></i></p>
-				</p>
-				<p><a href="#factbid-section">Below</a> is a list of all tweets with some hashtag(s) plus #factbid and a valid bid, meaning $ € or £ followed by an amount.
-				Whatever tweet is the first with that hashtag is shown as the 'author'.  This page shows the hashtag and total tweets.
-				Select the hashtag to see the full list of tweets.
-				Get your followers to tweet their own bid.  The easiest way is to click the 'bid' link, which starts a tweet with the hashtags filled in,
-				ready to edit the amount and send.
-				</p>
-				<p>To learn more visit <a href="https://factbid.substack.com/about">https://factbid.substack.com/about</a></p>
-			</div>
+    <div class="fact_banerr">
+        <div>
+            <h1>How it works</h1>
+            <p class="displayed-content">
+                1. When you need specific facts that are unavailable, create a hashtag that represents the facts and tweet your bid
+                with #factbid.
+                For example:<br>
+                <b><i>I'll pay $50 for an unbiased, peer-reviewed trial of taking Vitamin-D to prevent COVID. #VitaminDTrial #factbid</b></i><br>
+                Rest assured, there is no legal obligation. We are simply creating a list of people who are interested in the same facts and are willing to contribute.
+            </p>
+            <button id="toggle-content">More...</button>
+            <div id="more-content" style="display:none">
+                <p>
+                    2. 
+					Your hashtag (e.g. #VitaminDTrial) will appear on the <a href="#factbid-list">list below</a> within 10 minutes, along with a tally of all bids 
+					with that hashtags. Click it to go to your hashtag page (e.g. https://factbid.org/VitaminDTrials), which shows all the tweets. 
+					Make your hashtag go viral.  The hashtag page has a [Click To Tweet] button. 
+					This is the best way to start a tweet and ensure that the hashtags are spelled correctly.
+					Remember to edit before sending.
+                </p>
+                <p>
+                    3. If someone believes they can obtain the missing facts and the bids provide sufficient incentive, they can tweet their offer using the same hashtag plus #factbidclaim. For example:<br>
+                    <b><i>
+                    I'm Joe, a grad studient at MIT, getting my . I'd live to do this as my PhD thesis. Here's my CV. I can do it as a GoFundMe.
+                    #VitaminDTrial #factbidclaim</b></i><br>
+                    All such 'claims' will also appear on your hashtag page under the 'claims' link. That's it.
+                </p>
+                <p>Learn more at <a href="https://factbid.substack.com/about">https://factbid.substack.com/about</a></p>
+            </div>
+        </div>
+    </div>
 </section>
-<section class="factbid_wrapsec" id="factbid-list">
-		<div class="factbid_wrap">
-			<h1>List of AI Unfiltered Q&amp;A podcasts</h1>
-		</div>
-		<table>
-			<tr>
-				<td>
-					Episode
-				</td>
-				<td>
-					Desription
-				</td>
-			</tr>
-			<tr>
-				<td>
-					1
-				</td>
-				<td>
-					QA: dkdkdk
-				</td>
-			</tr>
-		</table>
+<section>
+    <div class="fact_qa">
+		<h1>List of AI Unfiltered Q&amp;A podcasts</h1>
+		<p>
+		ChatGPT's AI provides a unique perspective on complex issues by analyzing them from all angles and identifying missing facts to resolve controversies. The AI presents this information through an interview-style format featuring an Avatar it has created. The Avatar's responses are based solely on the AI's analysis of public data, and each missing fact is represented by a hashtag. Users can tweet bids or pledges to support those who can provide the missing facts.
+		</p>
+	</div>
+	<div class="fact_qa">
+		<h2><u>Episode 1: ChatGPT's AI examines if we overlooked an obvious pandemic cure and why</u></h2>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/about"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/factbid"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtube.com/@factbidorg"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		ChatGPT's AI fact-checked Trump's press conference on bleach and light. Despite mainstream media claims, using UV light was not Trump's idea. Three days prior, the FDA announced it would evaluate a UV light wand for lungs, which clinical studies suggested could be a game changer. New York also announced it would use far-UVC light on subways to kill 98% of Coronavirus. However, after Trump's speech, the topic became censored, and UV was dismissed as his "brain fart". ChatGPT analyzed the situation and provided possible explanations. The AI also evaluated crowdsourcing trials since the technology may not be profitable enough for investors.
+		</p>
+		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvLightBulb">#UvLightBulb</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
+		</p>
+	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
 		<div class="factbid_wrap">

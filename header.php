@@ -50,6 +50,21 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 
 	<link rel="stylesheet" href="<?php echo $site_url ;	?>/css/style.css">
 	<link rel="stylesheet" href="<?php echo $site_url ;	?>/fonts/stylesheet.css">
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	  <script>
+		$(document).ready(function () {
+		  $("#toggle-content").click(function () {
+console.log("Button clicked");		  
+			$("#more-content").toggle();
+console.log($("#more-content").is(":visible"));			
+			if ($("#more-content").is(":visible")) {
+			  $("#toggle-content").text("Less...");
+			} else {
+			  $("#toggle-content").text("More...");
+			}
+		  });
+		});
+	  </script>
 </head>
 <body>
 	<div class="container">
@@ -58,13 +73,13 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 			<nav class="header-logos">
 				<table style="background-color:#ecf0f3; width:100%; table-layout:fixed;">
 					<tr>
-						<td style="width:auto;">
+						<td style="width:25%;">
 							<div class="fect_logo">
 								<a href="<?php echo $site_url ; ?>"><img src="<?php echo $site_url ; ?>/images/logo-round-medium.png"></a>
 							</div>
 						</td>
-						<td style="text-align:center;">
-							<div class="wrapper_logo" style="display:inline-block;">
+						<td style="text-align:center; font-size: 0; line-height: 0; width:75%">
+							<div style="display: inline-block; max-width: 100%; font-size: 25px; line-height: 1; vertical-align: top;" class="wrapper_logo">
 								AI identifies missing facts humanity needs<br>
 								We crowdsource them
 							</div>
