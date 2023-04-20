@@ -14,7 +14,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 		$url = "https://twitter.com/intent/tweet?";
 		
 		if( $template == NULL ) {
-			$template = "I bid $20 #" . $hashtag . ". #factbid. Track bids and add your own at https://factbid.org/" . $hashtag;
+			$template = "I bid $20 for #" . $hashtag . ". #factbid. Track bids and add your own at https://factbid.org/" . $hashtag;
 		}
 
 		$url .= "text=" . urlencode($template);
@@ -58,7 +58,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 			<nav class="header-logos">
 				<table style="background-color:#ecf0f3; width:100%; table-layout:fixed;">
 					<tr>
-						<td style="width:1%;">
+						<td style="width:auto;">
 							<div class="fect_logo">
 								<a href="<?php echo $site_url ; ?>"><img src="<?php echo $site_url ; ?>/images/logo-round-medium.png"></a>
 							</div>
@@ -68,6 +68,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 								AI identifies missing facts humanity needs<br>
 								We crowdsource them
 							</div>
+							<br>
 							<div class="wrapper_logo" style="display:inline-block; margin-top:10px;">
 								<ul style="padding:0; list-style:none; display:inline-flex; justify-content:center; align-items:center; margin:0;">
 									<li><a href="https://twitter.com/factbid"><img src="<?php echo $site_url ; ?>/images/Twitter.png"></a></li>
