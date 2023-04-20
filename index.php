@@ -12,22 +12,52 @@
 		<div class="fact_banerr">
 			<div>
 				<h1>UPDATE: April 20, 2023</h1>
-				<p><b><i>FactBid will now focus on crowdsourcing facts that are not controversial and which ChatGPT's AI determines are beneficial for humanity.
-				Users can still tweet rewards for whistleblowers as before.</b></i></p>
+				<p><b><i>FactBid's developer, Aaron, will now focus his efforts
+				on crowdsourcing facts that are not controversial
+				and which ChatGPT's AI determines are beneficial for humanity.
+				FactBid is in the public domain so everyone is free to tweet 
+				anything they want with #factbid including rewards for whistleblowers.</b></i></p>
 
 				<h1>How it works</h1>
-				<p>Everyone is free to use it.  Just create a hashtag for any fact that you cannot find the answer to, but that someone or some group could provide.
-				Create a hashtag for it which you put in a tweet along with #factbid and monetary offer.
+				<p>Everyone is free to use this for any purpose.
+				Create a hashtag for any fact that you cannot find the answer to, 
+			 	but that someone or some group could provide with the proper incentive.
+				Include your hashtag in a tweet along with #factbid and your monetary offer.<br>
 				For example: <b><i>I bid $50 for a scientific study analyzing the probability of humans #LivingOnMars #factbid</b></i></p>
 				</p>
-				<p>This page lists all tweets with some hashtag(s) plus #factbid and a valid bid, meaning $ € or £ followed by an amount.
-				Whatever tweet is the first with that hashtag is shown as the 'author'.  This page shows the hashtag and total tweets.  Select the hashtag to see the full list of tweets.
-				Get your followers to tweet their own bid.  The easiest way is to click the 'bid' link, which starts a tweet with the hashtags filled in, ready to edit the amount and send.
+				<p><a href="#factbid-section">Below</a> is a list of all tweets with some hashtag(s) plus #factbid and a valid bid, meaning $ € or £ followed by an amount.
+				Whatever tweet is the first with that hashtag is shown as the 'author'.  This page shows the hashtag and total tweets.
+				Select the hashtag to see the full list of tweets.
+				Get your followers to tweet their own bid.  The easiest way is to click the 'bid' link, which starts a tweet with the hashtags filled in,
+				ready to edit the amount and send.
 				</p>
 				<p>To learn more visit <a href="https://factbid.substack.com/about">https://factbid.substack.com/about</a></p>
 			</div>
 </section>
-<section class="factbid_wrapsec">
+<section class="factbid_wrapsec" id="factbid-list">
+		<div class="factbid_wrap">
+			<h1>List of AI Unfiltered Q&amp;A podcasts</h1>
+		</div>
+		<table>
+			<tr>
+				<td>
+					Episode
+				</td>
+				<td>
+					Desription
+				</td>
+			</tr>
+			<tr>
+				<td>
+					1
+				</td>
+				<td>
+					QA: dkdkdk
+				</td>
+			</tr>
+		</table>
+</section>
+<section class="factbid_wrapsec" id="factbid-list">
 		<div class="factbid_wrap">
 			<h1>List of #factbid tweets</h1>
 			<p>There is a 10 minute delay before tweets appear.</p>

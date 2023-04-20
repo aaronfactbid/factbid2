@@ -56,43 +56,31 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 	<header>
 		<div class="">
 			<nav class="header-logos">
-				<table style="background-color:#ecf0f3">
-				<tr>
-				<td>
-					<div class="fect_logo">
-						<a href="<?php echo $site_url ;	?>"><img src="<?php echo $site_url ;	?>/images/logo-round-medium.png"></a>
-					</div>
-				</td>
-				<td>
-					<table>
-						<tr>
-						  <td style="font-size: 0; line-height: 0;">
-							<div style="display: inline-block; max-width: 100%; font-size: 16px; line-height: 1; vertical-align: top;" class="wrapper_logo">
-							  AI identifies missing facts humanity needs<br>
-							  We crowdsource them
+				<table style="background-color:#ecf0f3; width:100%; table-layout:fixed;">
+					<tr>
+						<td style="width:1%;">
+							<div class="fect_logo">
+								<a href="<?php echo $site_url ; ?>"><img src="<?php echo $site_url ; ?>/images/logo-round-medium.png"></a>
 							</div>
-						  </td>
-						</tr>					
-						<tr>
-							<td>
-								<div class="wrapper_logo">
-									<ul>
-										<li><a href="https://twitter.com/factbid"><img src="<?php echo $site_url ;	?>/images/Twitter.png"></a></li>
-										<li><a href="https://rumble.com/factbid"><img src="<?php echo $site_url ;	?>/images/rumble.png"></a></li>
-										<li><a href="https://youtube.com/@factbidorg"><img src="<?php echo $site_url ;	?>/images/youtube.png"></a></li>
-										<li><a href="https://factbid.substack.com/about"><img src="<?php echo $site_url ;	?>/images/SubStack.png"></a></li>
-										<li><a href="https://github.com/aaronfactbid"><img src="<?php echo $site_url ;	?>/images/Git_Hub.png"></a></li>
-										<li><a href="mailto:admin@factbid.org"><img src="<?php echo $site_url ;	?>/images/Mail.png"></a></li>
-									</ul>
-								</div>
-							</td>
-						</tr>
-					</table>
-				</td>
-				</tr>
+						</td>
+						<td style="text-align:center;">
+							<div class="wrapper_logo" style="display:inline-block;">
+								AI identifies missing facts humanity needs<br>
+								We crowdsource them
+							</div>
+							<div class="wrapper_logo" style="display:inline-block; margin-top:10px;">
+								<ul style="padding:0; list-style:none; display:inline-flex; justify-content:center; align-items:center; margin:0;">
+									<li><a href="https://twitter.com/factbid"><img src="<?php echo $site_url ; ?>/images/Twitter.png"></a></li>
+									<li><a href="https://rumble.com/factbid"><img src="<?php echo $site_url ; ?>/images/rumble.png"></a></li>
+									<li><a href="https://youtube.com/@factbidorg"><img src="<?php echo $site_url ; ?>/images/youtube.png"></a></li>
+									<li><a href="https://factbid.substack.com/about"><img src="<?php echo $site_url ; ?>/images/SubStack.png"></a></li>
+									<li><a href="https://github.com/aaronfactbid"><img src="<?php echo $site_url ; ?>/images/Git_Hub.png"></a></li>
+									<li><a href="mailto:admin@factbid.org"><img src="<?php echo $site_url ; ?>/images/Mail.png"></a></li>
+								</ul>
+							</div>
+						</td>
+					</tr>
 				</table>
 			</nav>
 		</div>
-	</div>
 	</header>
-
