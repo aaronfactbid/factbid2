@@ -11,15 +11,15 @@
 <section>
 		<div class="fact_banerr">
 			<div>
-				<h1>UPDATE: February 15, 2023</h1>
-				<p><b><i>Users have concern over retribution from sending PUBLIC tweets with offers for whistleblowers.
-				If you would like to see a new FactBid 3.0 that allows anonymous tweets, please add comments to the 
-				<a href="https://twitter.com/factbid/status/1625864931890307073">video tweet</a> and read the proposal at <a href="https://factbid.substack.com/p/factbid3">https://factbid.substack.com/p/factbid3</a>.</b></i></p>
+				<h1>UPDATE: April 20, 2023</h1>
+				<p><b><i>FactBid will now focus on crowdsourcing facts that are not controversial and which ChatGPT's AI determines are beneficial for humanity.
+				Users can still tweet rewards for whistleblowers as before.</b></i></p>
 
 				<h1>How it works</h1>
-				<p>Create a hashtag for some fact that a whistleblower could produce, like #EpsteinClientList.
-				Tweet an explanation including what facts you are offering to reward a whistleblower to provide and how much you are willing to bid.  The tweet must include your hashtag plus #factbid.
-				For example, create a video or blog post explaining some controversy you want to resolve and attach it to a tweet that has your hashtag, like: <b><i>I bid $50 for a whistleblower to produce the #EpsteinClientList.  #factbid</b></i></p>
+				<p>Everyone is free to use it.  Just create a hashtag for any fact that you cannot find the answer to, but that someone or some group could provide.
+				Create a hashtag for it which you put in a tweet along with #factbid and monetary offer.
+				For example: <b><i>I bid $50 for a scientific study analyzing the probability of humans #LivingOnMars #factbid</b></i></p>
+				</p>
 				<p>This page lists all tweets with some hashtag(s) plus #factbid and a valid bid, meaning $ € or £ followed by an amount.
 				Whatever tweet is the first with that hashtag is shown as the 'author'.  This page shows the hashtag and total tweets.  Select the hashtag to see the full list of tweets.
 				Get your followers to tweet their own bid.  The easiest way is to click the 'bid' link, which starts a tweet with the hashtags filled in, ready to edit the amount and send.

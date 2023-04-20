@@ -56,7 +56,7 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 	<header>
 		<div class="">
 			<nav class="header-logos">
-				<table>
+				<table style="background-color:#ecf0f3">
 				<tr>
 				<td>
 					<div class="fect_logo">
@@ -65,24 +65,28 @@ $site_url =  "https://".$_SERVER['SERVER_NAME'];
 				</td>
 				<td>
 					<table>
-					<tr>
-						<div class="wrapper_logo">
-						AI analzies<br>
-						Humans gather
-						</div>
-					</tr>
-					<tr>
-					<div class="wrapper_logo">
-						<ul>
-							<li><a href="https://twitter.com/factbid"><img src="<?php echo $site_url ;	?>/images/Twitter.png"></a></li>
-							<li><a href="https://rumble.com/factbid"><img src="<?php echo $site_url ;	?>/images/rumble.png"></a></li>
-							<li><a href="https://youtube.com/@factbidorg"><img src="<?php echo $site_url ;	?>/images/youtube.png"></a></li>
-							<li><a href="https://factbid.substack.com/about"><img src="<?php echo $site_url ;	?>/images/SubStack.png"></a></li>
-							<li><a href="https://github.com/aaronfactbid"><img src="<?php echo $site_url ;	?>/images/Git_Hub.png"></a></li>
-							<li><a href="mailto:admin@factbid.org"><img src="<?php echo $site_url ;	?>/images/Mail.png"></a></li>
-						</ul>
-					</div>
-					</tr>
+						<tr>
+						  <td style="font-size: 0; line-height: 0;">
+							<div style="display: inline-block; max-width: 100%; font-size: 16px; line-height: 1; vertical-align: top;" class="wrapper_logo">
+							  AI identifies missing facts humanity needs<br>
+							  We crowdsource them
+							</div>
+						  </td>
+						</tr>					
+						<tr>
+							<td>
+								<div class="wrapper_logo">
+									<ul>
+										<li><a href="https://twitter.com/factbid"><img src="<?php echo $site_url ;	?>/images/Twitter.png"></a></li>
+										<li><a href="https://rumble.com/factbid"><img src="<?php echo $site_url ;	?>/images/rumble.png"></a></li>
+										<li><a href="https://youtube.com/@factbidorg"><img src="<?php echo $site_url ;	?>/images/youtube.png"></a></li>
+										<li><a href="https://factbid.substack.com/about"><img src="<?php echo $site_url ;	?>/images/SubStack.png"></a></li>
+										<li><a href="https://github.com/aaronfactbid"><img src="<?php echo $site_url ;	?>/images/Git_Hub.png"></a></li>
+										<li><a href="mailto:admin@factbid.org"><img src="<?php echo $site_url ;	?>/images/Mail.png"></a></li>
+									</ul>
+								</div>
+							</td>
+						</tr>
 					</table>
 				</td>
 				</tr>
