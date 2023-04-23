@@ -53,14 +53,14 @@
 		<h2><u>Episode 1: ChatGPT's AI examines if we overlooked an obvious pandemic cure and why</u></h2>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/about"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factbid.substack.com/p/episode-1-did-we-miss-a-pandemic-cure"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/factbid"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtube.com/@factbidorg"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p><b>Synopsis:</b> 
-		ChatGPT's AI fact-checked Trump's press conference on bleach and light. Despite mainstream media claims, using UV light was not Trump's idea. Three days prior, the FDA announced it would evaluate a UV light wand for lungs, which clinical studies suggested could be a game changer. New York also announced it would use far-UVC light on subways to kill 98% of Coronavirus. However, after Trump's speech, the topic became censored, and UV was dismissed as his "brain fart". ChatGPT analyzed the situation and provided possible explanations. The AI also evaluated crowdsourcing trials since the technology may not be profitable enough for investors.
+		ChatGPT's AI fact-checked Trump's press conference on bleach and light. Despite mainstream media claims, using UV light was not Trump's idea. Three days prior, the FDA announced it would evaluate a UV light wand for lungs, which clinical studies suggested could be a game changer. New York also announced it would use far-UVC light on subways to kill 98% of Coronavirus. However, after Trump's speech, the topic became censored, and UV was dismissed as his "brain fart". ChatGPT analyzed the situation and provided possible explanations. The AI also evaluated we crowdsource trials ourselves since the technology may not be profitable enough for investors.
 		</p>
 		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvLightBulb">#UvLightBulb</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
 		</p>
