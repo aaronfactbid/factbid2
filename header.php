@@ -91,6 +91,7 @@ console.log($("#more-content").is(":visible"));
 									<li><a href="https://youtube.com/@factbidorg"><img src="<?php echo $site_url ; ?>/images/youtube.png"></a></li>
 									<li><a href="https://factbid.substack.com/about"><img src="<?php echo $site_url ; ?>/images/SubStack.png"></a></li>
 									<li><a href="https://github.com/aaronfactbid"><img src="<?php echo $site_url ; ?>/images/Git_Hub.png"></a></li>
+									<li><a href="/news"><img src="<?php echo $site_url ; ?>/images/news.png"></a></li>
 									<li><a href="mailto:admin@factbid.org"><img src="<?php echo $site_url ; ?>/images/Mail.png"></a></li>
 								</ul>
 							</div>

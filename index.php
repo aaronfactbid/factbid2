@@ -56,7 +56,7 @@
 		<a href="https://factbid.substack.com/p/episode-1-did-we-miss-a-pandemic-cure"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1650178258535690240"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
-		<a href="https://rumble.com/v2jzyfu-ai-unfiltered-qa-1-chatgpts-exposes-that-humans-missed-an-obvious-pandemic-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://rumble.com/v2k5lc6-ai-unfiltered-qa-1-chatgpts-exposes-that-humans-missed-an-obvious-pandemic-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/ji1QpjcfGkc"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p><b>Synopsis:</b> 
