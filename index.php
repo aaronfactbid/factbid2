@@ -69,7 +69,7 @@
 		Repeatable ChatGPT transcript: 
 		<a href="https://factbid.substack.com/p/episode-2-vaccine-hesitancy"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
-		<a href="https://twitter.com/factbid/status/1650178258535690240"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://twitter.com/factbid/status/1653150570746720256"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2lijv2-chatgpts-solution-to-vaccine-hesitancy-japans-revised-vaccines-tackled-food.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/2No6QWytdZ4"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
