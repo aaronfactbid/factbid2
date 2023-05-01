@@ -64,6 +64,20 @@
 		</p>
 		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvLightBulb">#UvLightBulb</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
 		</p>
+		<h2><u>Episode 2: ChatGPT shows us how we can solve vaccine hesitancy by tweeting pledges to support a crowdfunded study</u></h2>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-2-vaccine-hesitancy"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1650178258535690240"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2lijv2-chatgpts-solution-to-vaccine-hesitancy-japans-revised-vaccines-tackled-food.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/2No6QWytdZ4"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		ChatGPT proposing solving vaccine hesitancy by crowdfunding a study comparing vax'd & un-vax's students both in the US and in Japan, where vaccines were reformulated to address the most common concerns
+		</p>
+		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
+		</p>
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
