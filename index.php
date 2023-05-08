@@ -86,6 +86,11 @@
 		<a href="https://twitter.com/factbid/status/1655675777877155841"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2mqp2g-ai-unfiltered-qa-3-are-hospitals-causing-miscarriages-to-save-2-on-sterile-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/stgLlnuj--s"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		<br>
+		Related open letter to Robert F Kennedy, Jr.
+		<a href="https://twitter.com/factbid/status/1655679938471641088"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2mqt78-open-letter-to-robert-f-kennedy-jr.-challenge-the-media-to-demand-miscarria.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/NjzqOv1r38k"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p><b>Synopsis:</b> 
 		ChatGPT analyzes the controvery over hospitals giving pregnant women flu vaccines containing mercury as a preservative so they can save the cost of a sterile, single-use vial.
