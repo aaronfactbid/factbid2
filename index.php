@@ -78,6 +78,20 @@
 		</p>
 		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
 		</p>
+		<h2><u>Episode 3: Are hospitals causing miscarriages to save $2 on sterile vials?</u></h2>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-3-multi-use-vials"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1655675777877155841"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2mqp2g-ai-unfiltered-qa-3-are-hospitals-causing-miscarriages-to-save-2-on-sterile-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/stgLlnuj--s"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		ChatGPT analyzes the controvery over hospitals giving pregnant women flu vaccines containing mercury as a preservative so they can save the cost of a sterile, single-use vial.
+		</p>
+		<p>Hashtags presented: <a href="/MiscarriageRateByVax">#MiscarriageRateByVax</a></p>
+		</p>
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
