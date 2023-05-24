@@ -97,6 +97,20 @@
 		</p>
 		<p>Hashtags presented: <a href="/MiscarriageRateByVax">#MiscarriageRateByVax</a></p>
 		</p>
+		<h2><u>Episode 4: ChatGPT's analysis: Is rise in transgenderism purely societal? Or are there environmental factors?</u></h2>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-4"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://rumble.com/v2pstzu-chatgpts-analysis-is-rise-in-transgenderism-purely-societal-or-are-there-en.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2mqp2g-ai-unfiltered-qa-3-are-hospitals-causing-miscarriages-to-save-2-on-sterile-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/aZEpkFUbJRI"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		Are testosterone levels dropping in males/rising in females? Why? What's the effect? How can we keep sports fair? Let's crowdsource facts and rewards to keep gender clinics honest.
+		</p>
+		<p>Hashtags presented: <a href="/JustGenderFacts">#JustGenderFacts</a> <a href="/KeepGenderClinicsHonest">#KeepGenderClinicsHonest</a></p>
+		</p>
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
