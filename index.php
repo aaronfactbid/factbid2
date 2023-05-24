@@ -102,8 +102,8 @@
 		Repeatable ChatGPT transcript: 
 		<a href="https://factbid.substack.com/p/episode-4"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
-		<a href="https://rumble.com/v2pstzu-chatgpts-analysis-is-rise-in-transgenderism-purely-societal-or-are-there-en.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
-		<a href="https://rumble.com/v2mqp2g-ai-unfiltered-qa-3-are-hospitals-causing-miscarriages-to-save-2-on-sterile-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://twitter.com/factbid/status/1661473092416475136"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2pstzu-chatgpts-analysis-is-rise-in-transgenderism-purely-societal-or-are-there-en.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/aZEpkFUbJRI"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p><b>Synopsis:</b> 
