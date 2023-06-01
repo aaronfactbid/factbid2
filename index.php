@@ -50,7 +50,8 @@
 		</p>
 	</div>
 	<div class="fact_qa">
-		<h2><u>Episode 1: ChatGPT's AI examines if we overlooked an obvious pandemic cure and why</u></h2>
+		<h2><u>1: FarUVC & Vitamin study</u></h2>
+		<h3>ChatGPT's AI examines if we overlooked an obvious pandemic cure and why</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
 		<a href="https://factbid.substack.com/p/episode-1-did-we-miss-a-pandemic-cure"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
@@ -62,9 +63,10 @@
 		<p><b>Synopsis:</b> 
 		ChatGPT's AI fact-checked Trump's press conference on bleach and light. Despite mainstream media claims, using UV light was not Trump's idea. Three days prior, the FDA announced it would evaluate a UV light wand for lungs, which clinical studies suggested could be a game changer. New York also announced it would use far-UVC light on subways to kill 98% of Coronavirus. However, after Trump's speech, the topic became censored, and UV was dismissed as his "brain fart". ChatGPT analyzed the situation and provided possible explanations. The AI also evaluated we crowdsource trials ourselves since the technology may not be profitable enough for investors.
 		</p>
-		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvLightBulb">#UvLightBulb</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
+		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvcLightBulbStudy">#UvcLightBulbStudy</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
 		</p>
-		<h2><u>Episode 2: ChatGPT shows us how we can solve vaccine hesitancy by tweeting pledges to support a crowdfunded study</u></h2>
+		<h2><u>2: Vaccine safety study using student medical records </u></h2>
+		<h3>ChatGPT shows us how we can solve vaccine hesitancy by tweeting pledges to support a crowdfunded study</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
 		<a href="https://factbid.substack.com/p/episode-2-vaccine-hesitancy"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
@@ -78,7 +80,8 @@
 		</p>
 		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
 		</p>
-		<h2><u>Episode 3: Are hospitals causing miscarriages to save $2 on sterile vials?</u></h2>
+		<h2><u>3: Excess miscarriages</u></h2>
+		<h3>Are hospitals causing miscarriages to save $2 on sterile vials?</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
 		<a href="https://factbid.substack.com/p/episode-3-multi-use-vials"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
@@ -97,7 +100,8 @@
 		</p>
 		<p>Hashtags presented: <a href="/MiscarriageRateByVax">#MiscarriageRateByVax</a></p>
 		</p>
-		<h2><u>Episode 4: ChatGPT's analysis: Is rise in transgenderism purely societal? Or are there environmental factors?</u></h2>
+		<h2><u>4: Transgenderism causes</u></h2>
+		<h3>ChatGPT's analysis: Is rise in transgenderism purely societal? Or are there environmental factors?</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
 		<a href="https://factbid.substack.com/p/episode-4"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
@@ -111,6 +115,21 @@
 		</p>
 		<p>Hashtags presented: <a href="/JustGenderFacts">#JustGenderFacts</a> <a href="/KeepGenderClinicsHonest">#KeepGenderClinicsHonest</a></p>
 		</p>
+		<h2><u>5: Ukraine war</u></h2>
+		<h3>ChatGPT's analysis: Can we use Twitter for citizen activism to end the war with tweets?</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-4"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1661473092416475136"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2pstzu-chatgpts-analysis-is-rise-in-transgenderism-purely-societal-or-are-there-en.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/aZEpkFUbJRI"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		When those with the power to end a war profit from it, we need to incentivize whoever has the information to bring the parties to the peace table.
+		</p>
+		<p>Hashtags presented: <a href="/EndUkraineWar">#EndUkraineWar</a></p>
+		</p>		
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">

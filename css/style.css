@@ -242,7 +242,8 @@ button.fact-bannerbtn {
     padding-bottom: 20px;
 }
 .bid-bid span {
-    font-size: 14px;
+	background-color: #ecf0f3;
+    font-size: 24px;
     line-height: 26px;
 }
 .claimwrap table {
