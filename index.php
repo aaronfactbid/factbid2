@@ -119,11 +119,11 @@
 		<h3>ChatGPT's analysis: Can we use Twitter for citizen activism to end the war with tweets?</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-4"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factbid.substack.com/p/episode-5-ukraine"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
-		<a href="https://twitter.com/factbid/status/1661473092416475136"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
-		<a href="https://rumble.com/v2pstzu-chatgpts-analysis-is-rise-in-transgenderism-purely-societal-or-are-there-en.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
-		<a href="https://youtu.be/aZEpkFUbJRI"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		<a href="https://twitter.com/factbid/status/1664439121157210113"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2ri0sw-chatgpt-confirms-we-might-end-the-ukraine-war-with-twitter-and-factbid.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/i6Xap4GttSg"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p><b>Synopsis:</b> 
 		When those with the power to end a war profit from it, we need to incentivize whoever has the information to bring the parties to the peace table.
