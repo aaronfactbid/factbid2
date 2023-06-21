@@ -130,12 +130,27 @@
 		</p>
 		<p>Hashtags presented: <a href="/EndUkraineWar">#EndUkraineWar</a></p>
 		</p>		
-	</div>
+		<h2><u>6: Dam attack: </u></h2>
+		<h3>End the war by crowdsourcing evidence to prove who blew up the dam</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-6-dam"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1671657467275509761"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2vlvnd-episode-6-end-the-war-by-crowdsourcing-evidence-to-prove-who-blew-up-the-da.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/mKAaS2I9Z9s"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		Crowdsourcing a reward for a whistleblower to produce hard evidence proving which side is being played the fool in the dam attack could end the war.
+		</p>
+		<p>Hashtags presented: <a href="/DamProof">#DamProof</a></p>
+		</p>
+		</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
 		<div class="factbid_wrap">
 			<h1>List of #factbid tweets</h1>
-			<p>There is a 10 minute delay before tweets appear.</p>
+			<p>June 14, 2023: The Twitter API no longer allows free retrieval of tweets.  Tweets can no longer be automatically tracked, so users will need to search in Twitter by hashtag manually.  Please encourage Twitter to open the API for non-commercial, public-interest projects like FactBid.</p>
 
 			<div class="fact_bidtable">
 				
