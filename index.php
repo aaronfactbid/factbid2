@@ -65,7 +65,7 @@
 		</p>
 		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvcLightBulbStudy">#UvcLightBulbStudy</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
 		</p>
-		<h2><u>2: Vaccine safety study using student medical records </u></h2>
+		<h2><u>2: Vaccine safety study using student medical records</u></h2>
 		<h3>ChatGPT shows us how we can solve vaccine hesitancy by tweeting pledges to support a crowdfunded study</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -130,7 +130,7 @@
 		</p>
 		<p>Hashtags presented: <a href="/EndUkraineWar">#EndUkraineWar</a></p>
 		</p>		
-		<h2><u>6: Dam attack: </u></h2>
+		<h2><u>6: Dam attack</u></h2>
 		<h3>End the war by crowdsourcing evidence to prove who blew up the dam</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -145,6 +145,21 @@
 		</p>
 		<p>Hashtags presented: <a href="/DamProof">#DamProof</a></p>
 		</p>
+		<h2><u>7: Factcheck Hotez v Kennedy feud</u></h2>
+		<h3>ChatGPT factchecks Hotez's rebuttal to Kennedy's claim Hotez stinginess caused his daughter's autism</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-7-hotez-kennedy"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1672617197686910976"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2w4kuy-chatgpt-factchecks-hotezs-rebuttal-to-kennedys-claim-hotez-stinginess-cause.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/GpKHdyhYlDw"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		The reward is now over $1 million for a Hotez vs Kennedy "cage fight" on Joe Rogan's show.  ChatGPT analyzes why Hotez cannot debate, but that our pledges could crowdsource a reward for hard facts to prove who is correct on the potential harms of mercury still used in vaccines.
+		</p>
+		<p>Hashtags presented: <a href="/FullVaxData">#FullVaxData</a></p>
+		</p>		
 		</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
