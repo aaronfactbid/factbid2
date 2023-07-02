@@ -79,6 +79,16 @@
 		ChatGPT proposing solving vaccine hesitancy by crowdfunding a study comparing vax'd & un-vax's students both in the US and in Japan, where vaccines were reformulated to address the most common concerns
 		</p>
 		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
+		<br>
+		<b>Related June 28, 2018 RFK town hall</b></u>
+		<br>
+		In 6 seconds verify RFK's claim that FDA vax page does NOT claim safety trials use placebos.  Does MSM's refusal prove Kennedy Derangement Syndrome?
+		<br>
+		Video + Transcript: <a href="https://factbid.substack.com/p/2a-vanityfair-kennedy-derangement-syndrome"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Video: 
+		<a href="https://twitter.com/factbid/status/1675507902377783296"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2xmbkc-in-6-seconds-verify-rfks-claim-that-fda-vax-page-does-not-claim-safety-tria.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/SGAVlKs8eVk"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<h2><u>3: Excess miscarriages</u></h2>
 		<h3>Are hospitals causing miscarriages to save $2 on sterile vials?</h3>

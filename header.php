@@ -80,7 +80,7 @@ console.log($("#more-content").is(":visible"));
 						</td>
 						<td style="text-align:center; font-size: 0; line-height: 0; width:75%">
 							<div style="display: inline-block; max-width: 100%; font-size: 25px; line-height: 1; vertical-align: top;" class="wrapper_logo">
-								AI identifies missing facts humanity needs<br>
+								AI identifies facts we need<br>
 								We crowdsource them
 							</div>
 							<br>
