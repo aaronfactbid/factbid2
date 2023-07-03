@@ -65,7 +65,7 @@
 		</p>
 		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvcLightBulbStudy">#UvcLightBulbStudy</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
 		</p>
-		<h2 id="2"><u>2: Vaccine safety study using student medical records</u></h2>
+		<h2 id="2"><u>2: Vaccine safety study using historic medical records</u></h2>
 		<h3>ChatGPT shows us how we can solve vaccine hesitancy by tweeting pledges to support a crowdfunded study</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -89,6 +89,14 @@
 		<a href="https://twitter.com/factbid/status/1675507902377783296"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2xmbkc-in-6-seconds-verify-rfks-claim-that-fda-vax-page-does-not-claim-safety-tria.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/SGAVlKs8eVk"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		<br><br>
+		RFK confirms Africa identified vaccine concerns with a study to <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a>.  So why can't the US do it?!
+		<br>
+		Video + Transcript: <a href="https://factbid.substack.com/p/kennedy-africa-study"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Video: 
+		<a href="https://twitter.com/factbid/status/1676006020093468672"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2xyqks-chatgpt-shows-how-we-can-resolve-the-vaccine-debate-and-ensure-a-fair-2024-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/K_EFVnWXb_U"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<h2 id="3"><u>3: Excess miscarriages</u></h2>
 		<h3>Are hospitals causing miscarriages to save $2 on sterile vials?</h3>
@@ -175,8 +183,6 @@
 <section class="factbid_wrapsec" id="factbid-list">
 		<div class="factbid_wrap">
 			<h1>List of #factbid tweets</h1>
-			<p>June 14, 2023: The Twitter API no longer allows free retrieval of tweets.  Tweets can no longer be automatically tracked, so users will need to search in Twitter by hashtag manually.  Please encourage Twitter to open the API for non-commercial, public-interest projects like FactBid.</p>
-
 			<div class="fact_bidtable">
 				
 
