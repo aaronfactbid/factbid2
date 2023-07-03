@@ -50,7 +50,7 @@
 		</p>
 	</div>
 	<div class="fact_qa">
-		<h2><u>1: FarUVC & Vitamin study</u></h2>
+		<h2 id="1"><u>1: FarUVC & Vitamin study</u></h2>
 		<h3>ChatGPT's AI examines if we overlooked an obvious pandemic cure and why</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -65,7 +65,7 @@
 		</p>
 		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvcLightBulbStudy">#UvcLightBulbStudy</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
 		</p>
-		<h2><u>2: Vaccine safety study using student medical records</u></h2>
+		<h2 id="2"><u>2: Vaccine safety study using student medical records</u></h2>
 		<h3>ChatGPT shows us how we can solve vaccine hesitancy by tweeting pledges to support a crowdfunded study</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -79,8 +79,8 @@
 		ChatGPT proposing solving vaccine hesitancy by crowdfunding a study comparing vax'd & un-vax's students both in the US and in Japan, where vaccines were reformulated to address the most common concerns
 		</p>
 		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
-		<br>
-		<b>Related June 28, 2018 RFK town hall</b></u>
+		<p>
+		<u><b>Related June 28, 2018 RFK town hall</b></u>
 		<br>
 		In 6 seconds verify RFK's claim that FDA vax page does NOT claim safety trials use placebos.  Does MSM's refusal prove Kennedy Derangement Syndrome?
 		<br>
@@ -90,7 +90,7 @@
 		<a href="https://rumble.com/v2xmbkc-in-6-seconds-verify-rfks-claim-that-fda-vax-page-does-not-claim-safety-tria.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/SGAVlKs8eVk"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
-		<h2><u>3: Excess miscarriages</u></h2>
+		<h2 id="3"><u>3: Excess miscarriages</u></h2>
 		<h3>Are hospitals causing miscarriages to save $2 on sterile vials?</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -110,7 +110,7 @@
 		</p>
 		<p>Hashtags presented: <a href="/MiscarriageRateByVax">#MiscarriageRateByVax</a></p>
 		</p>
-		<h2><u>4: Transgenderism causes</u></h2>
+		<h2 id="4"><u>4: Transgenderism causes</u></h2>
 		<h3>ChatGPT's analysis: Is rise in transgenderism purely societal? Or are there environmental factors?</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -125,7 +125,7 @@
 		</p>
 		<p>Hashtags presented: <a href="/JustGenderFacts">#JustGenderFacts</a> <a href="/KeepGenderClinicsHonest">#KeepGenderClinicsHonest</a></p>
 		</p>
-		<h2><u>5: Ukraine war</u></h2>
+		<h2 id="5"><u>5: Ukraine war</u></h2>
 		<h3>ChatGPT's analysis: Can we use Twitter for citizen activism to end the war with tweets?</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -140,7 +140,7 @@
 		</p>
 		<p>Hashtags presented: <a href="/EndUkraineWar">#EndUkraineWar</a></p>
 		</p>		
-		<h2><u>6: Dam attack</u></h2>
+		<h2 id="6"><u>6: Dam attack</u></h2>
 		<h3>End the war by crowdsourcing evidence to prove who blew up the dam</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -155,7 +155,7 @@
 		</p>
 		<p>Hashtags presented: <a href="/DamProof">#DamProof</a></p>
 		</p>
-		<h2><u>7: Factcheck Hotez v Kennedy feud</u></h2>
+		<h2 id="8"><u>8: Factcheck Hotez v Kennedy feud</u></h2>
 		<h3>ChatGPT factchecks Hotez's rebuttal to Kennedy's claim Hotez stinginess caused his daughter's autism</h3>
 		<p>
 		Repeatable ChatGPT transcript: 

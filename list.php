@@ -28,7 +28,7 @@
 	?>
    <div class="bidswrapper">
    <p>
-   <?php echo '<h2>Facts being sought:</h2><br>' . $row_ht['title']; ?>
+   <?php echo '<h2>Topic and <a href="https://twitter.com/' . $row_ht['author_username'] . '/status/' . $row_ht['id_twitter'] . '">discussion thread</a>:</h2><br>' . $row_ht['title']; ?>
    </p>
    	<p>
 	<a href="<?php echo tweet_bid($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username'],$row_ht['template'],$row_ht['tweet_url']); ?>"><img src="/images/click-tweet.png"></a>
