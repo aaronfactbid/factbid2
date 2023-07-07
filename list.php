@@ -20,7 +20,14 @@
 			echo '<br><a href="/claims.php?claims='. $row_ht['id_hashtag'] . '">' . $row_ht['claims']. ' claims to having provided the facts, donate if satisfied</a>';
 		}
 		echo '</span></div>';
-		echo '<span>Created: <script>var date = new Date(' . $row_ht['created_int'] .' * 1000); document.write(date.toLocaleDateString());</script> by @<a href="https://twitter.com/' . $row_ht['author_username'] . '/status/' . $row_ht['id_twitter'] . '">' . $row_ht['author_username'] . '</a></span>';
+		echo '<span>Created: <script>var date = new Date(' . $row_ht['created_int'] .' * 1000); document.write(date.toLocaleDateString());</script> by @<a href="https://twitter.com/' . $row_ht['author_username'] . '/status/' . $row_ht['id_twitter'] . '">' . $row_ht['author_username'] . '</a>&nbsp;&nbsp;<a href="https://twitter.com/' . $row_ht['author_username'] . '/status/' . $row_ht['id_twitter'] . '">discussion thread</a>';
+		
+		if( empty($row_ht['transcript'])==false )
+		{
+			echo '&nbsp;&nbsp;<a href="' . $row_ht['transcript'] . '">transcript</a>';
+		}
+		
+		echo '</span>';
 
 		$sql = "SELECT *,UNIX_TIMESTAMP(created_ts) AS created_int FROM bid WHERE `id_hashtag`=" . $id_hashtag . " ORDER BY `created_ts` DESC LIMIT 100;";
 		$result = mysqli_query($conn, $sql);
@@ -28,7 +35,7 @@
 	?>
    <div class="bidswrapper">
    <p>
-   <?php echo '<h2>Topic and <a href="https://twitter.com/' . $row_ht['author_username'] . '/status/' . $row_ht['id_twitter'] . '">discussion thread</a>:</h2><br>' . $row_ht['title']; ?>
+   <?php echo '<h2>Topic:</h2><br>' . $row_ht['title']; ?>
    </p>
    	<p>
 	<a href="<?php echo tweet_bid($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username'],$row_ht['template'],$row_ht['tweet_url']); ?>"><img src="/images/click-tweet.png"></a>
