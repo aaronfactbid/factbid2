@@ -16,14 +16,14 @@ Redirect 301 /episode/5 https://factbid.substack.com/p/episode-5-ukraine
 Redirect 301 /episode/6 https://factbid.substack.com/p/episode-6-dam
 Redirect 301 /episode/7 https://factbid.substack.com/p/episode-7-aids-opv-theory
 Redirect 301 /episode/8 https://factbid.substack.com/p/episode-7-hotez-kennedy
-Redirect 301 /transcript/1 https://factbid.substack.com/p/transcript-1-did-we-miss-a-pandemic-cure
-Redirect 301 /transcript/2 https://factbid.substack.com/p/transcript-2-vaccine-hesitancy
-Redirect 301 /transcript/3 https://factbid.substack.com/p/transcript-3-multiuse-vials
-Redirect 301 /transcript/4 https://factbid.substack.com/p/transcript-4
-Redirect 301 /transcript/5 https://factbid.substack.com/p/transcript-5-ukraine
-Redirect 301 /transcript/6 https://factbid.substack.com/p/transcript-6-dam
-Redirect 301 /transcript/7 https://factbid.substack.com/p/transcript-7-aids-opv-theory
-Redirect 301 /transcript/8 https://factbid.substack.com/p/transcript-7-hotez-kennedy
+Redirect 301 /transcript/1 https://factbid.substack.com/p/episode-1-did-we-miss-a-pandemic-cure
+Redirect 301 /transcript/2 https://factbid.substack.com/p/episode-2-vaccine-hesitancy
+Redirect 301 /transcript/3 https://factbid.substack.com/p/episode-3-multiuse-vials
+Redirect 301 /transcript/4 https://factbid.substack.com/p/episode-4
+Redirect 301 /transcript/5 https://factbid.substack.com/p/episode-5-ukraine
+Redirect 301 /transcript/6 https://factbid.substack.com/p/episode-6-dam
+Redirect 301 /transcript/7 https://factbid.substack.com/p/episode-7-aids-opv-theory
+Redirect 301 /transcript/8 https://factbid.substack.com/p/episode-7-hotez-kennedy
 
 # Redirect number to /#number
 RewriteRule ^([0-9]+)$ /#$1 [R=301,L,NE]
