@@ -163,6 +163,20 @@
 		</p>
 		<p>Hashtags presented: <a href="/DamProof">#DamProof</a></p>
 		</p>
+		<h2 id="7"><u>7: AIDS Lab Leak Theory</u></h2>
+		<h3>Did Fauci coverup the origin of AIDS?  ChatGPT lays out the indisputable facts</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-7-aids-opv-theory"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1677470627261710336"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v2yqyey-did-fauci-coverup-the-origin-of-aids-chatgpt-lays-out-the-indisputable-fact.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		$1,000 cash reward to (a) come forward with evidence of the Congo samples or (b) find a scientific paper that merely attempts to refute it.
+		</p>
+		<p>Hashtags presented: <a href="/DamProof">#DamProof</a></p>
+		</p>
 		<h2 id="8"><u>8: Factcheck Hotez v Kennedy feud</u></h2>
 		<h3>ChatGPT factchecks Hotez's rebuttal to Kennedy's claim Hotez stinginess caused his daughter's autism</h3>
 		<p>
