@@ -171,6 +171,7 @@
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1677470627261710336"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2yqyey-did-fauci-coverup-the-origin-of-aids-chatgpt-lays-out-the-indisputable-fact.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/mS8ZnjwqSjE"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p><b>Synopsis:</b> 
 		$1,000 cash reward to (a) come forward with evidence of the Congo samples or (b) find a scientific paper that merely attempts to refute it.
