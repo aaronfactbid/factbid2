@@ -175,7 +175,7 @@
 		<p><b>Synopsis:</b> 
 		$1,000 cash reward to (a) come forward with evidence of the Congo samples or (b) find a scientific paper that merely attempts to refute it.
 		</p>
-		<p>Hashtags presented: <a href="/DamProof">#DamProof</a></p>
+		<p>Hashtags presented: <a href="/AidsOpvTheory">#AidsOpvTheory</a></p>
 		</p>
 		<h2 id="8"><u>8: Factcheck Hotez v Kennedy feud</u></h2>
 		<h3>ChatGPT factchecks Hotez's rebuttal to Kennedy's claim Hotez stinginess caused his daughter's autism</h3>
