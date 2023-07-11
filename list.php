@@ -44,8 +44,16 @@
    	This page tracks all tweets containing <b>#<?php echo $row_ht['hashtag']; ?></b> plus an amount plus <b>#factbid</b>.  
 	To add your own bid, or pledge to pay for whoever provides the requested facts, click the blue button to start a tweet with the hashtags.
 	See <a href="/">all hashtags</a>, <a href="https://factbid.substack.com/about">how it works</a>, or if you can provide the facts tweet a <a href="<?php echo tweet_claim($row_ht['hashtag'],$row_ht['id_twitter'],$row_ht['author_username']); ?>">claim</a>.
+	Allow 15 minutes for your tweet to appear, and please ask Twitter to up the API limits for these non-commercial projects.
 	</p><p>
    </p></div>
+	<?php
+		if( empty($row_ht['embed'])==false )
+		{
+			echo $row_ht['embed'];
+		}
+	
+	?>
 
 	<section class="bidswrap">
 		<p><b>100 most recent tweets with bids, or <a href="/export.php?hashtag=<?php echo $current_hashtag; ?>">download</a> the full list as a CSV spreadsheet.</b></p>
