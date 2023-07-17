@@ -10,9 +10,6 @@ if(mysqli_num_rows($result_footer) > 0) {
 }
 ?>
 </p>
-<p>
-FactBid, 1225 Ave. Juan Ponce de Leon, San Juan, PR 00907
-</p>
 </div>
 </body>
 </html>

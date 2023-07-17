@@ -204,6 +204,21 @@
 		</p>
 		<p>Hashtags presented: <a href="/FullVaxData">#FullVaxData</a></p>
 		</p>		
+		<h2 id="9"><u>9: Kristian Andersen's COVID Origins testimony</u></h2>
+		<h3>“Evasiveness”, “weasel words”: ChatGPT's analysis of Kristian Andersen’s Congressional Origins Testimony</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/evasiveness-weasel-words-chatgpts"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1680740822151569414"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v30g3z8-evasiveness-weasel-words-chatgpts-analysis-of-kristian-andersens-covid-orig.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/xklVM5COXCM"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		I discovered an anomaly in his $9 million grant to explain his verbal gymnastics. ChatGPT suggests how we can hold him accountable.  He testified that "funding decisions" were made in 2019 about his $9 million grant from Fauci, proving his "Proximal Origins" lab-leak smackdown was not a quid-pro-quo.  But note he didn't say "My $9 million funding was approved in 2019".
+		</p>
+		<p>Hashtags presented: <a href="/KgaPerjury">#KgaPerjury</a></p>
+		</p>		
 		</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
