@@ -188,7 +188,6 @@
 		<a href="https://rumble.com/v2zhn64-please-lets-expose-the-greatest-coverup-in-history-not-spend-another-20-yea.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/b9DCA9wCKGA"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
-		</p>
 		<h2 id="8"><u>8: Factcheck Hotez v Kennedy feud</u></h2>
 		<h3>ChatGPT factchecks Hotez's rebuttal to Kennedy's claim Hotez stinginess caused his daughter's autism</h3>
 		<p>
@@ -218,7 +217,16 @@
 		I discovered an anomaly in his $9 million grant to explain his verbal gymnastics. ChatGPT suggests how we can hold him accountable.  He testified that "funding decisions" were made in 2019 about his $9 million grant from Fauci, proving his "Proximal Origins" lab-leak smackdown was not a quid-pro-quo.  But note he didn't say "My $9 million funding was approved in 2019".
 		</p>
 		<p>Hashtags presented: <a href="/KgaPerjury">#KgaPerjury</a></p>
-		</p>		
+						<p>
+		<u><b>Follow up</b></u>
+		<br>
+		Unbelievably, the sole criminal matter at his hearing--the alleged bribe carrying up to 45 years in prison--was untouchable. Even his critics allowed "vague, evasive, weasel-words" to pass unchallenged.  Here is how it should have unfolded.
+		<br>
+		Video: 
+		<a href="https://twitter.com/factbid/status/1681291540650500098"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v30q8t0-covid-origins-remix-how-it-should-have-gone-down.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/69YncVX-G0M"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
 		</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
