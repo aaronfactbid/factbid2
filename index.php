@@ -226,6 +226,13 @@
 		<a href="https://twitter.com/factbid/status/1681291540650500098"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v30q8t0-covid-origins-remix-how-it-should-have-gone-down.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/69YncVX-G0M"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		<br><br>
+		SNL's Detective Debbie Dingell brought much needed comic relief after Andersen's epic performance of the funding Weasel Word Dance
+		<br>
+		Video: 
+		<a href="https://twitter.com/factbid/status/1681356465829822515"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v30rsnc-snls-halftime-show-featuring-detective-debbie-dingell-adds-comic-relief-to-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/waEqrJfot04"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		</div>
 </section>
