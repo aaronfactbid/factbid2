@@ -97,6 +97,14 @@
 		<a href="https://twitter.com/factbid/status/1676006020093468672"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2xyqks-chatgpt-shows-how-we-can-resolve-the-vaccine-debate-and-ensure-a-fair-2024-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/K_EFVnWXb_U"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		<br><br>
+		ChatGPT factchecks RFK's comments on SARS-COV2 and race, which the White House and MSM claim is a "conspiracy theory".
+		<br>
+		Video + Transcript: <a href="https://factbid.substack.com/p/2c-rfk-race"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Video: 
+		<a href="https://twitter.com/factbid/status/1682190930890113025"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v319kcs-chatgpt-factchecks-rfks-sars-cov2-race-comment-which-white-house-msm-claim-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/28iS-xsu4kw"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<h2 id="3"><u>3: Excess miscarriages</u></h2>
 		<h3>Are hospitals causing miscarriages to save $2 on sterile vials?</h3>
