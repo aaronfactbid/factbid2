@@ -268,6 +268,8 @@
 		<p><b>Synopsis:</b> 
 		Both 2003 & 2019 Coronavirus outbreaks occurred in Chinese cities with labs studying those viruses, both used a unique method of infection that affects ethnic groups differently.  Did Kristian Andersen's own African Lab Leak Ebola?
 		</p>
+		<p>Hashtags presented: <a href="/KenemaWhistleblower">#KenemaWhistleblower</a> <a href="/WuhanWhistleblower">#WuhanWhistleblower</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
+		</p>
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
