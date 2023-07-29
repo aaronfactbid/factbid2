@@ -248,12 +248,25 @@
 		Repeatable ChatGPT transcript: 
 		<a href="https://factbid.substack.com/p/10-dot-connecting-lab-leak"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
-		<a href="https://twitter.com/factbid/status/1683630584659075072"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://twitter.com/factbid/status/1683965626514042883"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v325bp0-dot-connecting-for-dummies-how-to-spot-a-lab-leak.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/7GCwlnwfuCg"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p><b>Synopsis:</b> 
 		A humorous look at a very serious topic: The death and devastation caused by the willingness to replace common sense with blind faith in leaders.
+		</p>
+		<h2 id="11"><u>11: Did they cover-up TWO Chinese lab leaks w/ ethnicity-specific viruses PLUS an African Ebola lab leak?</u></h2>
+		<h3>In his newly released secret chat messages, Kristian Andersen told us how to prove it and hold them accountable.  Let's stand up and do something!</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-11-three-lab-leaks"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1685350113001025537"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v336vpl-did-they-cover-up-two-chinese-lab-leaks-w-ethnicity-specific-viruses-plus-a.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/iWaRQL7BZbQ"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p><b>Synopsis:</b> 
+		Both 2003 & 2019 Coronavirus outbreaks occurred in Chinese cities with labs studying those viruses, both used a unique method of infection that affects ethnic groups differently.  Did Kristian Andersen's own African Lab Leak Ebola?
 		</p>
 	</div>
 </section>
