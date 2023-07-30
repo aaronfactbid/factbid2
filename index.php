@@ -268,8 +268,20 @@
 		<p><b>Synopsis:</b> 
 		Both 2003 & 2019 Coronavirus outbreaks occurred in Chinese cities with labs studying those viruses, both used a unique method of infection that affects ethnic groups differently.  Did Kristian Andersen's own African Lab Leak Ebola?
 		</p>
-		<p>Hashtags presented: <a href="/KenemaWhistleblower">#KenemaWhistleblower</a> <a href="/WuhanWhistleblower">#WuhanWhistleblower</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
+		<p>Hashtags presented: <a href="/KenemaWhistleblower">#KenemaWhistleblower</a> <a href="/WuhanWhistleblower">#WuhanWhistleblower</a></p>
 		</p>
+		<h2 id="12"><u>12: Watch video of the aliens David Grusch described. Pay only if satisfied. No catch</u></h2>
+		<h3>Let's crowdsource the evidence. I want to see the aliens!</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-12-aliens"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1685767574460485632"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v33g5ah-watch-video-of-the-crashed-aliens-the-us-government-recovered.-pay-only-if-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/5Qiu93RPdgg"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p>Hashtags presented: <a href="/RealET">#RealET</a></p>
+		</p>		
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
