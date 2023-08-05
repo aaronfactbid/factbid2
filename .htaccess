@@ -28,7 +28,8 @@ Redirect 301 /transcript/8 https://factbid.substack.com/p/episode-7-hotez-kenned
 Redirect 301 /transcript/9 https://factbid.substack.com/p/evasiveness-weasel-words-chatgpts
 Redirect 301 /transcript/10 https://factbid.substack.com/p/10-dot-connecting-lab-leak
 Redirect 301 /transcript/11 https://factbid.substack.com/p/episode-11-three-lab-leaks
-Redirect 301 /transcript/11 https://factbid.substack.com/p/episode-12-aliens
+Redirect 301 /transcript/12 https://factbid.substack.com/p/episode-12-aliens
+Redirect 301 /transcript/13 https://factbid.substack.com/p/episode-13-sv40
 
 # Redirect number to /#number
 RewriteRule ^([0-9]+)$ /#$1 [R=301,L,NE]

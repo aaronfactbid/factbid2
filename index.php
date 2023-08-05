@@ -281,7 +281,19 @@
 		<a href="https://youtu.be/5Qiu93RPdgg"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p>Hashtags presented: <a href="/RealET">#RealET</a></p>
-		</p>		
+		</p>
+		<h2 id="13"><u>13: Cancer linked to SV40, primate viruses in vaccines and scientific experiments?</u></h2>
+		<h3>ChatGPT fact-checks the scientists, filters out the conspiracy theorists, and reveals some surprising nuggets of truth</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-13-sv40"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1687833301896122368"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v34x22s-chatgpt-fact-checks-cancer-linked-to-sv40-primate-viruses-in-vaccines.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/dx5GFSnLKsI"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
+		</p>			
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
