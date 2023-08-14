@@ -3,7 +3,7 @@
 
    <div class="bidswrapper">
    	<p>
-   	Whistleblowers post evidence and their donation instructions in a tweet with the hashtag they are claiming plus #factbidclaim.  Below are the tweets from whistleblowers.
+   	Whistleblowers post evidence and their donation instructions in a post on X with the hashtag they are claiming plus #factbidclaim.  Below are the posts from whistleblowers.
    </p></div>
 
    <?php

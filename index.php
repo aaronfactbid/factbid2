@@ -14,7 +14,7 @@
         <div>
             <h1>How it works</h1>
             <p class="displayed-content">
-                1. When you need specific facts that are unavailable, create a hashtag that represents the facts and tweet your bid
+                1. When you need specific facts that are unavailable, create a hashtag that represents the facts and post your bid on X (formerly Twitter)
                 with #factbid.
                 For example:<br>
                 <b><i>I'll pay $50 for an unbiased, peer-reviewed trial of taking Vitamin-D to prevent COVID. #VitaminDTrial #factbid</b></i><br>
@@ -25,13 +25,13 @@
                 <p>
                     2. 
 					Your hashtag (e.g. #VitaminDTrial) will appear on the <a href="#factbid-list">list below</a> within 10 minutes, along with a tally of all bids 
-					with that hashtags. Click it to go to your hashtag page (e.g. https://factbid.org/VitaminDTrials), which shows all the tweets. 
-					Make your hashtag go viral.  The hashtag page has a [Click To Tweet] button. 
-					This is the best way to start a tweet and ensure that the hashtags are spelled correctly.
+					with that hashtags. Click it to go to your hashtag page (e.g. https://factbid.org/VitaminDTrials), which shows all the post on X. 
+					Make your hashtag go viral.  The hashtag page has a [Click To post] button. 
+					This is the best way to start a post and ensure that the hashtags are spelled correctly.
 					Remember to edit before sending.
                 </p>
                 <p>
-                    3. If someone believes they can obtain the missing facts and the bids provide sufficient incentive, they can tweet their offer using the same hashtag plus #factbidclaim. For example:<br>
+                    3. If someone believes they can obtain the missing facts and the bids provide sufficient incentive, they can post their offer using the same hashtag plus #factbidclaim. For example:<br>
                     <b><i>
                     I'm Joe, a grad studient at MIT, getting my . I'd live to do this as my PhD thesis. Here's my CV. I can do it as a GoFundMe.
                     #VitaminDTrial #factbidclaim</b></i><br>
@@ -46,7 +46,7 @@
     <div class="fact_qa">
 		<h1>List of AI Unfiltered Q&amp;A podcasts</h1>
 		<p>
-		ChatGPT's AI provides a unique perspective on complex issues by analyzing them from all angles and identifying missing facts to resolve controversies. The AI presents this information through an interview-style format featuring an Avatar it has created. The Avatar's responses are based solely on the AI's analysis of public data, and each missing fact is represented by a hashtag. Users can tweet bids or pledges to support those who can provide the missing facts.
+		ChatGPT's AI provides a unique perspective on complex issues by analyzing them from all angles and identifying missing facts to resolve controversies. The AI presents this information through an interview-style format featuring an Avatar it has created. The Avatar's responses are based solely on the AI's analysis of public data, and each missing fact is represented by a hashtag. Users can post bids or pledges to support those who can provide the missing facts.
 		</p>
 	</div>
 	<div class="fact_qa">
@@ -298,7 +298,7 @@
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
 		<div class="factbid_wrap">
-			<h1>List of #factbid tweets</h1>
+			<h1>List of #factbid posts on X</h1>
 			<div class="fact_bidtable">
 				
 
@@ -315,7 +315,7 @@ if(mysqli_num_rows($result) > 0) {  ?>
     <th>Bids</th>
     <th>Total</th>
     <th>Claims</th>
-    <th colspan="2">Start a tweet</th>
+    <th colspan="2">Start a post on X</th>
 </tr></thead>
 <?php while($row = $result->fetch_assoc()) {
 	 ?>
@@ -338,7 +338,7 @@ if(mysqli_num_rows($result) > 0) {  ?>
 	   </table>
 <?php	}
 	 else {
-	  echo "No tweets with #factbid yet.  You can be the first.";
+	  echo "No posts with #factbid yet.  You can be the first.";
 	}   ?>
 
 
