@@ -294,6 +294,18 @@
 		</p>
 		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
 		</p>			
+		<h2 id="14"><u>14: WeedVac: The only vaccine for the common cold made from weed. 100% safe & effective</u></h2>
+		<h3>ChatGPT's serious, fact-check-able analysis of FDA vaccine approval protocols. Could you really put marijuana in a blender and call it a vaccine?!</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/weedvac"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1691245981864529920"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v37n8tg-weedvac-the-only-vaccine-for-the-common-cold-made-from-weed.-100-safe-and-e.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/NL9R7_9iOzM"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
+		</p>	
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
