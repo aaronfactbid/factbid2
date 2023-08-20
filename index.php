@@ -305,7 +305,19 @@
 		<a href="https://youtu.be/NL9R7_9iOzM"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
-		</p>	
+		</p>
+		<h2 id="15"><u>15: ChatGPT analysis: Does Hawaii's new law prevent or perpetrate a land grab from Maui fire victims?</u></h2>
+		<h3>ChatGPT lays out the facts and red flags in the governor's proclamation</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/maui-fire"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1693058386210738553"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v39fx2o-chatgpt-analysis-does-hawaiis-new-law-prevent-or-perpetrate-a-land-grab-fro.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/Cvzr2gQP1CQ"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p>Hashtags presented: <a href="/MauiFire">#MauiFire</a></p>
+		</p>			
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
