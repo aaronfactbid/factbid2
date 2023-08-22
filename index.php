@@ -64,8 +64,8 @@
 		ChatGPT's AI fact-checked Trump's press conference on bleach and light. Despite mainstream media claims, using UV light was not Trump's idea. Three days prior, the FDA announced it would evaluate a UV light wand for lungs, which clinical studies suggested could be a game changer. New York also announced it would use far-UVC light on subways to kill 98% of Coronavirus. However, after Trump's speech, the topic became censored, and UV was dismissed as his "brain fart". ChatGPT analyzed the situation and provided possible explanations. The AI also evaluated we crowdsource trials ourselves since the technology may not be profitable enough for investors.
 		</p>
 		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvcLightBulbStudy">#UvcLightBulbStudy</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
-		</p>
-		<h2 id="2"><u>2: Vaccine safety study using historic medical records</u></h2>
+
+		<h2 id="2"><u>2: Vaccine safety study using historic medical records</u></h2>		
 		<h3>ChatGPT shows us how we can solve vaccine hesitancy by tweeting pledges to support a crowdfunded study</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
@@ -106,6 +106,7 @@
 		<a href="https://rumble.com/v319kcs-chatgpt-factchecks-rfks-sars-cov2-race-comment-which-white-house-msm-claim-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/28iS-xsu4kw"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
+		
 		<h2 id="3"><u>3: Excess miscarriages</u></h2>
 		<h3>Are hospitals causing miscarriages to save $2 on sterile vials?</h3>
 		<p>
@@ -125,7 +126,7 @@
 		ChatGPT analyzes the controvery over hospitals giving pregnant women flu vaccines containing mercury as a preservative so they can save the cost of a sterile, single-use vial.
 		</p>
 		<p>Hashtags presented: <a href="/MiscarriageRateByVax">#MiscarriageRateByVax</a></p>
-		</p>
+
 		<h2 id="4"><u>4: Transgenderism causes</u></h2>
 		<h3>ChatGPT's analysis: Is rise in transgenderism purely societal? Or are there environmental factors?</h3>
 		<p>
@@ -140,7 +141,7 @@
 		Are testosterone levels dropping in males/rising in females? Why? What's the effect? How can we keep sports fair? Let's crowdsource facts and rewards to keep gender clinics honest.
 		</p>
 		<p>Hashtags presented: <a href="/JustGenderFacts">#JustGenderFacts</a> <a href="/KeepGenderClinicsHonest">#KeepGenderClinicsHonest</a></p>
-		</p>
+
 		<h2 id="5"><u>5: Ukraine war</u></h2>
 		<h3>ChatGPT's analysis: Can we use Twitter for citizen activism to end the war with tweets?</h3>
 		<p>
@@ -155,7 +156,7 @@
 		When those with the power to end a war profit from it, we need to incentivize whoever has the information to bring the parties to the peace table.
 		</p>
 		<p>Hashtags presented: <a href="/EndUkraineWar">#EndUkraineWar</a></p>
-		</p>		
+		
 		<h2 id="6"><u>6: Dam attack</u></h2>
 		<h3>End the war by crowdsourcing evidence to prove who blew up the dam</h3>
 		<p>
@@ -170,7 +171,7 @@
 		Crowdsourcing a reward for a whistleblower to produce hard evidence proving which side is being played the fool in the dam attack could end the war.
 		</p>
 		<p>Hashtags presented: <a href="/DamProof">#DamProof</a></p>
-		</p>
+
 		<h2 id="7"><u>7: AIDS Lab Leak Theory</u></h2>
 		<h3>Did Fauci coverup the origin of AIDS?  ChatGPT lays out the indisputable facts</h3>
 		<p>
@@ -196,6 +197,7 @@
 		<a href="https://rumble.com/v2zhn64-please-lets-expose-the-greatest-coverup-in-history-not-spend-another-20-yea.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/b9DCA9wCKGA"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
+
 		<h2 id="8"><u>8: Factcheck Hotez v Kennedy feud</u></h2>
 		<h3>ChatGPT factchecks Hotez's rebuttal to Kennedy's claim Hotez stinginess caused his daughter's autism</h3>
 		<p>
@@ -210,7 +212,7 @@
 		The reward is now over $1 million for a Hotez vs Kennedy "cage fight" on Joe Rogan's show.  ChatGPT analyzes why Hotez cannot debate, but that our pledges could crowdsource a reward for hard facts to prove who is correct on the potential harms of mercury still used in vaccines.
 		</p>
 		<p>Hashtags presented: <a href="/FullVaxData">#FullVaxData</a></p>
-		</p>		
+		
 		<h2 id="9"><u>9: Kristian Andersen's COVID Origins testimony</u></h2>
 		<h3>“Evasiveness”, “weasel words”: ChatGPT's analysis of Kristian Andersen’s Congressional Origins Testimony</h3>
 		<p>
@@ -225,7 +227,7 @@
 		I discovered an anomaly in his $9 million grant to explain his verbal gymnastics. ChatGPT suggests how we can hold him accountable.  He testified that "funding decisions" were made in 2019 about his $9 million grant from Fauci, proving his "Proximal Origins" lab-leak smackdown was not a quid-pro-quo.  But note he didn't say "My $9 million funding was approved in 2019".
 		</p>
 		<p>Hashtags presented: <a href="/KgaPerjury">#KgaPerjury</a></p>
-						<p>
+		<p>
 		<u><b>Follow up</b></u>
 		<br>
 		Unbelievably, the sole criminal matter at his hearing--the alleged bribe carrying up to 45 years in prison--was untouchable. Even his critics allowed "vague, evasive, weasel-words" to pass unchallenged.  Here is how it should have unfolded.
@@ -242,6 +244,7 @@
 		<a href="https://rumble.com/v30rsnc-snls-halftime-show-featuring-detective-debbie-dingell-adds-comic-relief-to-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		<a href="https://youtu.be/waEqrJfot04"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
+		
 		<h2 id="10"><u>10: Dot Connecting for Dummies: How to spot a lab leak</u></h2>
 		<h3>3 simple rules would have exposed the governments' absurd narrative from day 1, saved countless lives, trillions of dollars</h3>
 		<p>
@@ -255,6 +258,7 @@
 		<p><b>Synopsis:</b> 
 		A humorous look at a very serious topic: The death and devastation caused by the willingness to replace common sense with blind faith in leaders.
 		</p>
+		
 		<h2 id="11"><u>11: Did they cover-up TWO Chinese lab leaks w/ ethnicity-specific viruses PLUS an African Ebola lab leak?</u></h2>
 		<h3>In his newly released secret chat messages, Kristian Andersen told us how to prove it and hold them accountable.  Let's stand up and do something!</h3>
 		<p>
@@ -269,7 +273,7 @@
 		Both 2003 & 2019 Coronavirus outbreaks occurred in Chinese cities with labs studying those viruses, both used a unique method of infection that affects ethnic groups differently.  Did Kristian Andersen's own African Lab Leak Ebola?
 		</p>
 		<p>Hashtags presented: <a href="/KenemaWhistleblower">#KenemaWhistleblower</a> <a href="/WuhanWhistleblower">#WuhanWhistleblower</a></p>
-		</p>
+
 		<h2 id="12"><u>12: Watch video of the aliens David Grusch described. Pay only if satisfied. No catch</u></h2>
 		<h3>Let's crowdsource the evidence. I want to see the aliens!</h3>
 		<p>
@@ -293,7 +297,7 @@
 		<a href="https://youtu.be/dx5GFSnLKsI"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
-		</p>			
+		
 		<h2 id="14"><u>14: WeedVac: The only vaccine for the common cold made from weed. 100% safe & effective</u></h2>
 		<h3>ChatGPT's serious, fact-check-able analysis of FDA vaccine approval protocols. Could you really put marijuana in a blender and call it a vaccine?!</h3>
 		<p>
@@ -305,7 +309,7 @@
 		<a href="https://youtu.be/NL9R7_9iOzM"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p>Hashtags presented: <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a></p>
-		</p>
+
 		<h2 id="15"><u>15: ChatGPT analysis: Does Hawaii's new law prevent or perpetrate a land grab from Maui fire victims?</u></h2>
 		<h3>ChatGPT lays out the facts and red flags in the governor's proclamation</h3>
 		<p>
@@ -317,7 +321,18 @@
 		<a href="https://youtu.be/Cvzr2gQP1CQ"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p>Hashtags presented: <a href="/MauiFire">#MauiFire</a></p>
-		</p>			
+		<p>
+		<u><b>Related:</b></u>
+		<br>
+		Open letter to Marc Andreessen: An idea for how "AI can save the world"
+		<br>
+		Video + Transcript: <a href="https://factbid.substack.com/p/marc-andreesen"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Video: 
+		<a href="https://twitter.com/factbid/status/1693779448120639838"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v3a7tge-open-letter-to-marc-andreessen-an-idea-for-how-ai-can-save-the-world.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/rewa62m8SWU"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+			
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
