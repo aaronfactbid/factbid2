@@ -333,6 +333,18 @@
 		<a href="https://youtu.be/rewa62m8SWU"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 			
+		<h2 id="16"><u>16: Placebo-scam in Gardasil, aluminum trials: Why the court just ruled against Merck whistleblowers</u></h2>
+		<h3>To prove the trials were indefensible and highlight the solution, there's also $100 for a link to a scientist who previously even attempted to defend Merck's Gardasil shenanigans mixing placebo+AAHS groups.</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/episode-16-gardasil"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1700641520322232743"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v3gdq2f-placebo-trick-in-gardasil-aluminum-trials-why-the-court-just-ruled-against-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/t92huHyUyq8"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p>Hashtags presented: <a href="/GardasilPlacebo">#GardasilPlacebo</a></p>
+
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">

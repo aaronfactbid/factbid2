@@ -33,6 +33,7 @@ Redirect 301 /transcript/13 https://factbid.substack.com/p/episode-13-sv40
 Redirect 301 /transcript/14 https://factbid.substack.com/p/weedvac
 Redirect 301 /transcript/15 https://factbid.substack.com/p/maui-fire
 Redirect 301 /transcript/15b https://factbid.substack.com/p/marc-andreesen
+Redirect 301 /transcript/16 https://factbid.substack.com/p/episode-16-gardasil
 
 # Redirect number to /#number
 RewriteRule ^([0-9]+)$ /#$1 [R=301,L,NE]
