@@ -345,6 +345,17 @@
 		</p>
 		<p>Hashtags presented: <a href="/GardasilPlacebo">#GardasilPlacebo</a></p>
 
+		<h2 id="17"><u>17: Placebo-scam in Gardasil, aluminum trials: Why the court just ruled against Merck whistleblowers</u></h2>
+		<h3>To prove the trials were indefensible and highlight the solution, there's also $100 for a link to a scientist who previously even attempted to defend Merck's Gardasil shenanigans mixing placebo+AAHS groups.</h3>
+		<p>
+		Repeatable ChatGPT transcript: 
+		<a href="https://factbid.substack.com/p/rewrite-aids-origins"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1706778468271133059"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v3l3ezb-unearthed-fda-document-rewrites-the-narrative-on-aids-gays-africans-and-vac.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/Gs9fyPWrhcg"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>
+		<p>Hashtags presented: <a href="/AidsCoverup">#AidsCoverup</a></p>
 	</div>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
