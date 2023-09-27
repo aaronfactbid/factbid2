@@ -345,8 +345,8 @@
 		</p>
 		<p>Hashtags presented: <a href="/GardasilPlacebo">#GardasilPlacebo</a></p>
 
-		<h2 id="17"><u>17: Placebo-scam in Gardasil, aluminum trials: Why the court just ruled against Merck whistleblowers</u></h2>
-		<h3>To prove the trials were indefensible and highlight the solution, there's also $100 for a link to a scientist who previously even attempted to defend Merck's Gardasil shenanigans mixing placebo+AAHS groups.</h3>
+		<h2 id="17"><u>17: Unearthed FDA Document Rewrites the Narrative on AIDS, Gays, Africans, and Vaccines?!</u></h2>
+		<h3>$1,000 reward to fact-check and debunk.  FDA doc proves: Inventors of Merck's vax tested on gay men WERE injecting humans with chimp blood, and there was no AIDS in Sub-Saharan Africa when the jabs began.</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
 		<a href="https://factbid.substack.com/p/rewrite-aids-origins"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
