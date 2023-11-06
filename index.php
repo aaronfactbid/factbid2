@@ -11,35 +11,22 @@
 <!--------banner------------->
 <section>
     <div class="fact_banerr">
-        <div>
-            <h1>How it works</h1>
-            <p class="displayed-content">
-                1. When you need specific facts that are unavailable, create a hashtag that represents the facts and post your bid on X (formerly Twitter)
-                with #factbid.
-                For example:<br>
-                <b><i>I'll pay $50 for an unbiased, peer-reviewed trial of taking Vitamin-D to prevent COVID. #VitaminDTrial #factbid</b></i><br>
-                Rest assured, there is no legal obligation. We are simply creating a list of people who are interested in the same facts and are willing to contribute.
-            </p>
-            <button id="toggle-content">More...</button>
-            <div id="more-content" style="display:none">
-                <p>
-                    2. 
-					Your hashtag (e.g. #VitaminDTrial) will appear on the <a href="#factbid-list">list below</a> within 10 minutes, along with a tally of all bids 
-					with that hashtags. Click it to go to your hashtag page (e.g. https://factbid.org/VitaminDTrials), which shows all the post on X. 
-					Make your hashtag go viral.  The hashtag page has a [Click To post] button. 
-					This is the best way to start a post and ensure that the hashtags are spelled correctly.
-					Remember to edit before sending.
-                </p>
-                <p>
-                    3. If someone believes they can obtain the missing facts and the bids provide sufficient incentive, they can post their offer using the same hashtag plus #factbidclaim. For example:<br>
-                    <b><i>
-                    I'm Joe, a grad studient at MIT, getting my . I'd live to do this as my PhD thesis. Here's my CV. I can do it as a GoFundMe.
-                    #VitaminDTrial #factbidclaim</b></i><br>
-                    All such 'claims' will also appear on your hashtag page under the 'claims' link. That's it.
-                </p>
-                <p>Learn more at <a href="https://factbid.substack.com/about">https://factbid.substack.com/about</a></p>
-            </div>
-        </div>
+		<h1>November 2023 : FactBid is becoming <a href="https://factmission.org">FactMission</a>, a non-profit foundation</h1>
+		<p class="displayed-content">
+			For 2 years FactBid offered cash rewards (bids) for facts.
+			This led to a revelation about the US CDC trial Merck's Heptavax vaccine made from human and/or chimpanzee blood.
+			When the clinical trials began in the US gay community in the late 1970's, the HIV infection rate was 0.
+			At the end of trials 42% of participants were infected.  That is well-known, undisputed, and dismissed as coincidental by the CDC.
+			However, FactBid uncovered that the HIV-infection rate among the placebo group was only 9%.
+			In 1983 when Merck and US health agencies discovered this, Merck began developing a new, blood-free version for afluent markets,
+			while dumping the original blood-based version in Sub-Saharan Africa were it was administered for over 10 years.
+			Officials and institutions ignored the scientific literature demonstrating the majority of AIDS infections in Africa
+			could only be explained by injection.
+		</p>
+		<p>
+			Fact Mission is being established as a non-profit foundation in Switzerland to fund fact-finding missions for these types of controveries.
+			Visit <a href="https://factmission.org">https://factmission.org</a> to support.
+		</p>
     </div>
 </section>
 <section>
