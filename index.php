@@ -351,7 +351,7 @@
 		<h3>CDC Heptavax RCT Placebo Rate Revealed after 40 years</h3>
 		<p>
 		Script with sources
-		<a href="https://open.substack.com/pub/factbid/p/heptavax-placebo?r=1xcoyu&utm_campaign=post&utm_medium=web"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factbid.substack.com/p/heptavax-placebo"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1721691518258356501"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v3u5yv0-cdc-heptavax-rct-placebo-rate-revealed-after-40-years.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
