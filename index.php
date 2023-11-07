@@ -347,8 +347,8 @@
 		</p>
 		<p>Hashtags presented: <a href="/AidsCoverup">#AidsCoverup</a></p>
 
-		<h2 id="18"><u>18: </u></h2>
-		<h3>CDC Heptavax RCT Placebo Rate Revealed after 40 years</h3>
+		<h2 id="18"><u>18: CDC Heptavax RCT Placebo Rate Revealed after 40 years</u></h2>
+		<h3>The CDC and Merck claim it's coincidence that HIV infection went from 0% to 42% in trial participants, but have kept the 9% rate among the placebo group hidden</h3>
 		<p>
 		Script with sources
 		<a href="https://factbid.substack.com/p/heptavax-placebo"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
