@@ -50,6 +50,9 @@
 		<p><b>Synopsis:</b> 
 		ChatGPT's AI fact-checked Trump's press conference on bleach and light. Despite mainstream media claims, using UV light was not Trump's idea. Three days prior, the FDA announced it would evaluate a UV light wand for lungs, which clinical studies suggested could be a game changer. New York also announced it would use far-UVC light on subways to kill 98% of Coronavirus. However, after Trump's speech, the topic became censored, and UV was dismissed as his "brain fart". ChatGPT analyzed the situation and provided possible explanations. The AI also evaluated we crowdsource trials ourselves since the technology may not be profitable enough for investors.
 		</p>
+		<p>
+		Partially withdrawn: Scientists subsequently pointed out that although studies found FarUVC safe, it can be harmful.  However, there is no explanation for the #UvLightWandTrial Healight disappearing from the market.
+		</p>
 		<p>Hashtags presented: <a href="/UvLightWandTrial">#UvLightWandTrial</a> <a href="/UvcLightBulbStudy">#UvcLightBulbStudy</a> <a href="/VitaminDTrial">#VitaminDTrial</a></p>
 
 		<h2 id="2"><u>2: Vaccine safety study using historic medical records</u></h2>		
@@ -343,7 +346,17 @@
 		<a href="https://youtu.be/Gs9fyPWrhcg"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
 		</p>
 		<p>Hashtags presented: <a href="/AidsCoverup">#AidsCoverup</a></p>
-	</div>
+
+		<h2 id="18"><u>18: </u></h2>
+		<h3>CDC Heptavax RCT Placebo Rate Revealed after 40 years</h3>
+		<p>
+		Script with sources
+		<a href="https://open.substack.com/pub/factbid/p/heptavax-placebo?r=1xcoyu&utm_campaign=post&utm_medium=web"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1721691518258356501"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v3u5yv0-cdc-heptavax-rct-placebo-rate-revealed-after-40-years.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		Youtube banned
+		</p>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
 		<div class="factbid_wrap">
