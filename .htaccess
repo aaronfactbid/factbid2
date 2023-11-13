@@ -36,10 +36,7 @@ Redirect 301 /transcript/15b https://factbid.substack.com/p/marc-andreesen
 Redirect 301 /transcript/16 https://factbid.substack.com/p/episode-16-gardasil
 Redirect 301 /transcript/17 https://factbid.substack.com/p/rewrite-aids-origins
 Redirect 301 /transcript/18 https://factbid.substack.com/p/heptavax-placebo
-
-
-# Redirect number to /#number
-RewriteRule ^([0-9]+)$ /#$1 [R=301,L,NE]
+Redirect 301 /wikipedia https://docs.google.com/document/d/1FXGExMfaDr5zDTDzfVO5P2D96wlhG1ayjSfwKhZmTWc/edit?usp=sharing
 
 RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
 RewriteRule ^ /%1 [NC,L,R]
