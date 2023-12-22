@@ -357,6 +357,19 @@
 		<a href="https://rumble.com/v3u5yv0-cdc-heptavax-rct-placebo-rate-revealed-after-40-years.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		Youtube banned
 		</p>
+		
+		<h2 id="18"><u>19: Aids, Apartheid, the WHO and Gates</u></h2>
+		<h3>The WHO worked with South Africa's apartheid regime to vaccinate "black subjects" with an experimental chimp-blood vax AFTER it decimated the gay community</h3>
+		<p>
+		Script with sources
+		<a href="https://factbid.substack.com/p/aids"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/factbid/status/1738285562782474353"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		Part 5: <a href="https://twitter.com/factbid/status/1738286926963040638"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		Part 6: <a href="https://twitter.com/factbid/status/1738287814326796455"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://rumble.com/v42sidc-aids-apartheid-the-who-and-gates.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://youtu.be/DeA4tPoXmDw"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/youtube.png"></a>
+		</p>		
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
 		<div class="factbid_wrap">
