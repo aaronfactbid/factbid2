@@ -38,9 +38,11 @@ Redirect 301 /transcript/17 https://factbid.substack.com/p/rewrite-aids-origins
 Redirect 301 /transcript/18 https://factbid.substack.com/p/heptavax-placebo
 Redirect 301 /transcript/19 https://factbid.substack.com/p/aids
 Redirect 301 /transcript/20 https://factbid.substack.com/p/both-us-parties-prevent-voting
+Redirect 301 /transcript/21 https://factbid.substack.com/p/cdc-foia
 
 Redirect 301 /aids-docs https://docs.google.com/spreadsheets/d/1uvUnjnX7ZwEsB8fdEu2d8AjfqEQ50bqHCd3T3SSLpEQ
 Redirect 301 /aids		https://factbid.substack.com/p/aids
+Redirect 301 /foia		https://factbid.substack.com/p/cdc-foia
 Redirect 301 /aids-x	https://twitter.com/factbid/status/1738285562782474353
 
 RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
