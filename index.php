@@ -39,7 +39,7 @@
 				#VitaminDTrial #factbidclaim</b></i><br>
 				All such 'claims' will also appear on your hashtag page under the 'claims' link. That's it.
 			</p>
-			<p>Learn more at <a href="https://factbid.substack.com/about">https://factbid.substack.com/about</a></p>
+			<p>Learn more at <a href="https://factmission.substack.com/about">https://factmission.substack.com/about</a></p>
 		</div>	
 		<h1>Currently seeking philanthropic partners to launch <a href="https://factmission.org">FactMission</a>, a novel non-profit research foundation concept</h1>
 		<p class="displayed-content">
@@ -59,7 +59,7 @@
 		<h3>ChatGPT's AI examines if we overlooked an obvious pandemic cure and why</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-1-did-we-miss-a-pandemic-cure"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-1-did-we-miss-a-pandemic-cure"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1650178258535690240"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2k5lc6-ai-unfiltered-qa-1-chatgpts-exposes-that-humans-missed-an-obvious-pandemic-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -77,7 +77,7 @@
 		<h3>ChatGPT shows us how we can solve vaccine hesitancy by tweeting pledges to support a crowdfunded study</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-2-vaccine-hesitancy"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-2-vaccine-hesitancy"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1653150524378685441"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2lijv2-chatgpts-solution-to-vaccine-hesitancy-japans-revised-vaccines-tackled-food.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -92,7 +92,7 @@
 		<br>
 		In 6 seconds verify RFK's claim that FDA vax page does NOT claim safety trials use placebos.  Does MSM's refusal prove Kennedy Derangement Syndrome?
 		<br>
-		Video + Transcript: <a href="https://factbid.substack.com/p/2a-vanityfair-kennedy-derangement-syndrome"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Video + Transcript: <a href="https://factmission.substack.com/p/2a-vanityfair-kennedy-derangement-syndrome"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Video: 
 		<a href="https://twitter.com/factbid/status/1675507902377783296"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2xmbkc-in-6-seconds-verify-rfks-claim-that-fda-vax-page-does-not-claim-safety-tria.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -100,7 +100,7 @@
 		<br><br>
 		RFK confirms Africa identified vaccine concerns with a study to <a href="/JapanUsVaxStudy">#JapanUsVaxStudy</a>.  So why can't the US do it?!
 		<br>
-		Video + Transcript: <a href="https://factbid.substack.com/p/kennedy-africa-study"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Video + Transcript: <a href="https://factmission.substack.com/p/kennedy-africa-study"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Video: 
 		<a href="https://twitter.com/factbid/status/1676006020093468672"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2xyqks-chatgpt-shows-how-we-can-resolve-the-vaccine-debate-and-ensure-a-fair-2024-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -108,7 +108,7 @@
 		<br><br>
 		ChatGPT factchecks RFK's comments on SARS-COV2 and race, which the White House and MSM claim is a "conspiracy theory".
 		<br>
-		Video + Transcript: <a href="https://factbid.substack.com/p/2c-rfk-race"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Video + Transcript: <a href="https://factmission.substack.com/p/2c-rfk-race"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Video: 
 		<a href="https://twitter.com/factbid/status/1682190930890113025"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v319kcs-chatgpt-factchecks-rfks-sars-cov2-race-comment-which-white-house-msm-claim-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -119,7 +119,7 @@
 		<h3>Are hospitals causing miscarriages to save $2 on sterile vials?</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-3-multi-use-vials"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-3-multi-use-vials"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1655675777877155841"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2mqp2g-ai-unfiltered-qa-3-are-hospitals-causing-miscarriages-to-save-2-on-sterile-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -139,7 +139,7 @@
 		<h3>ChatGPT's analysis: Is rise in transgenderism purely societal? Or are there environmental factors?</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-4"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-4"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1661473092416475136"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2pstzu-chatgpts-analysis-is-rise-in-transgenderism-purely-societal-or-are-there-en.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -154,7 +154,7 @@
 		<h3>ChatGPT's analysis: Can we use Twitter for citizen activism to end the war with tweets?</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-5-ukraine"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-5-ukraine"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1664439121157210113"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2ri0sw-chatgpt-confirms-we-might-end-the-ukraine-war-with-twitter-and-factbid.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -169,7 +169,7 @@
 		<h3>End the war by crowdsourcing evidence to prove who blew up the dam</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-6-dam"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-6-dam"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1671657467275509761"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2vlvnd-episode-6-end-the-war-by-crowdsourcing-evidence-to-prove-who-blew-up-the-da.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -184,7 +184,7 @@
 		<h3>Did Fauci coverup the origin of AIDS?  ChatGPT lays out the indisputable facts</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-7-aids-opv-theory"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-7-aids-opv-theory"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1677470627261710336"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2yqyey-did-fauci-coverup-the-origin-of-aids-chatgpt-lays-out-the-indisputable-fact.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -199,7 +199,7 @@
 		<br>
 		PLEASE let's expose the greatest coverup in history, not spend ANOTHER 20 years whining about it!
 		<br>
-		Video + Transcript: <a href="https://factbid.substack.com/p/7a-tweet-pledges"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Video + Transcript: <a href="https://factmission.substack.com/p/7a-tweet-pledges"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Video: 
 		<a href="https://twitter.com/factbid/status/1678909292903006208"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2zhn64-please-lets-expose-the-greatest-coverup-in-history-not-spend-another-20-yea.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -210,7 +210,7 @@
 		<h3>ChatGPT factchecks Hotez's rebuttal to Kennedy's claim Hotez stinginess caused his daughter's autism</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-7-hotez-kennedy"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-7-hotez-kennedy"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1672617197686910976"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v2w4kuy-chatgpt-factchecks-hotezs-rebuttal-to-kennedys-claim-hotez-stinginess-cause.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -225,7 +225,7 @@
 		<h3>“Evasiveness”, “weasel words”: ChatGPT's analysis of Kristian Andersen’s Congressional Origins Testimony</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/evasiveness-weasel-words-chatgpts"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/evasiveness-weasel-words-chatgpts"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1680740822151569414"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v30g3z8-evasiveness-weasel-words-chatgpts-analysis-of-kristian-andersens-covid-orig.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -257,7 +257,7 @@
 		<h3>3 simple rules would have exposed the governments' absurd narrative from day 1, saved countless lives, trillions of dollars</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/10-dot-connecting-lab-leak"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/10-dot-connecting-lab-leak"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1683965626514042883"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v325bp0-dot-connecting-for-dummies-how-to-spot-a-lab-leak.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -271,7 +271,7 @@
 		<h3>In his newly released secret chat messages, Kristian Andersen told us how to prove it and hold them accountable.  Let's stand up and do something!</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-11-three-lab-leaks"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-11-three-lab-leaks"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1685350113001025537"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v336vpl-did-they-cover-up-two-chinese-lab-leaks-w-ethnicity-specific-viruses-plus-a.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -286,7 +286,7 @@
 		<h3>Let's crowdsource the evidence. I want to see the aliens!</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-12-aliens"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-12-aliens"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1685767574460485632"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v33g5ah-watch-video-of-the-crashed-aliens-the-us-government-recovered.-pay-only-if-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -298,7 +298,7 @@
 		<h3>ChatGPT fact-checks the scientists, filters out the conspiracy theorists, and reveals some surprising nuggets of truth</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-13-sv40"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-13-sv40"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1687833301896122368"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v34x22s-chatgpt-fact-checks-cancer-linked-to-sv40-primate-viruses-in-vaccines.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -310,7 +310,7 @@
 		<h3>ChatGPT's serious, fact-check-able analysis of FDA vaccine approval protocols. Could you really put marijuana in a blender and call it a vaccine?!</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/weedvac"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/weedvac"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1691245981864529920"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v37n8tg-weedvac-the-only-vaccine-for-the-common-cold-made-from-weed.-100-safe-and-e.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -322,7 +322,7 @@
 		<h3>ChatGPT lays out the facts and red flags in the governor's proclamation</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/maui-fire"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/maui-fire"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1693058386210738553"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v39fx2o-chatgpt-analysis-does-hawaiis-new-law-prevent-or-perpetrate-a-land-grab-fro.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -334,7 +334,7 @@
 		<br>
 		Open letter to Marc Andreessen: An idea for how "AI can save the world"
 		<br>
-		Video + Transcript: <a href="https://factbid.substack.com/p/marc-andreesen"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Video + Transcript: <a href="https://factmission.substack.com/p/marc-andreesen"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Video: 
 		<a href="https://twitter.com/factbid/status/1693779448120639838"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v3a7tge-open-letter-to-marc-andreessen-an-idea-for-how-ai-can-save-the-world.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -345,7 +345,7 @@
 		<h3>To prove the trials were indefensible and highlight the solution, there's also $100 for a link to a scientist who previously even attempted to defend Merck's Gardasil shenanigans mixing placebo+AAHS groups.</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/episode-16-gardasil"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/episode-16-gardasil"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1700641520322232743"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v3gdq2f-placebo-trick-in-gardasil-aluminum-trials-why-the-court-just-ruled-against-.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -357,7 +357,7 @@
 		<h3>$1,000 reward to fact-check and debunk.  FDA doc proves: Inventors of Merck's vax tested on gay men WERE injecting humans with chimp blood, and there was no AIDS in Sub-Saharan Africa when the jabs began.</h3>
 		<p>
 		Repeatable ChatGPT transcript: 
-		<a href="https://factbid.substack.com/p/rewrite-aids-origins"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/rewrite-aids-origins"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1706778468271133059"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v3l3ezb-unearthed-fda-document-rewrites-the-narrative-on-aids-gays-africans-and-vac.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -369,7 +369,7 @@
 		<h3>The CDC and Merck claim it's coincidence that HIV infection went from 0% to 42% in trial participants, but have kept the 9% rate among the placebo group hidden</h3>
 		<p>
 		Script with sources
-		<a href="https://factbid.substack.com/p/heptavax-placebo"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/heptavax-placebo"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1721691518258356501"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v3u5yv0-cdc-heptavax-rct-placebo-rate-revealed-after-40-years.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -380,7 +380,7 @@
 		<h3>The WHO worked with South Africa's apartheid regime to vaccinate "black subjects" with an experimental chimp-blood vax AFTER it decimated the gay community</h3>
 		<p>
 		Script with sources
-		<a href="https://factbid.substack.com/p/aids"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/aids-v1"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1738285562782474353"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		Part 5: <a href="https://twitter.com/factbid/status/1738286926963040638"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
@@ -393,7 +393,7 @@
 		<h3>Argentina's election of anti-establishment Javier Milei could never happen in the US</h3>
 		<p>
 		Script with sources
-		<a href="https://factbid.substack.com/p/both-us-parties-prevent-voting"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/both-us-parties-prevent-voting"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1739676336413630819"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v43fueb-in-2012-it-was-even-more-blatant-both-u.s.-parties-prevent-voting-for-non-e.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
@@ -403,11 +403,34 @@
 		<h3>If they defy the law, we must mobilize politicians and media for enforcement</h3>
 		<p>
 		Script with sources
-		<a href="https://factbid.substack.com/p/cdc-foia"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/cdc-foia"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/factbid/status/1746318437918347407"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://rumble.com/v46umf0-cdc-foia-24-00408-will-settle-the-most-infamous-conspiracy-theory.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
 		</p>				
+
+		<h2 id="22"><u>22: In 3 minutes why the CDC FOIA 24-00408 for Lot 751 is so important</u></h2>
+		<h3>If they defy the law, we must mobilize politicians and media for enforcement</h3>
+		<p>
+		Script with sources
+		<a href="https://factmission.substack.com/p/aids-v1"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://twitter.com/FactMissionOrg/status/1753465430688075849"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		<a href="https://vimeo.com/909179926">Vimeo</a>&nbsp;
+		<a href="https://rumble.com/v4ay9ch-disturbing-data-from-the-cdc-unravels-the-enigma-of-aids.html"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/rumble.png"></a>
+		<a href="https://rumble.com/v4ay9tz-datos-perturbadores-del-cdc-desentraan-el-enigma-del-sida.html">Español</a>&nbsp;
+		<a href="https://rumble.com/v4ayaaf-dados-perturbadores-do-cdc-desvendam-o-enigma-da-aids.html">Português </a>&nbsp;
+		<a href="https://rumble.com/v4ayal3-des-donnes-troublantes-du-cdc-dmlent-lnigme-du-sida.html">Français</a>&nbsp;
+		<a href="https://rumble.com/v4ayb1x-beunruhigende-daten-des-cdc-entwirren-das-rtsel-um-aids.html">Deutsch</a>&nbsp;
+		<a href="https://rumble.com/v4aybrk-dati-inquietanti-dai-cdc-svelano-lenigma-dellaids.html">Italiano</a>&nbsp;
+		<a href="https://rumble.com/v4aycmf-cdc.html">日本語</a>&nbsp;
+		<a href="https://rumble.com/v4aydob--cdc-.html">Русский</a>&nbsp;
+		<a href="https://rumble.com/v4aydpi--cdc-.html">العربية</a>&nbsp;
+		<a href="https://rumble.com/v4aydsf-cdc.html">普通话</a>&nbsp;
+		<br>
+		<a href="https://twitter.com/FactMissionOrg/status/1753220999204504055"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png">Link to Project Coast</a>
+		</p>				
+</section>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
 		<div class="factbid_wrap">
