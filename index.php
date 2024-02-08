@@ -413,7 +413,7 @@
 		<h3>If they defy the law, we must mobilize politicians and media for enforcement</h3>
 		<p>
 		Script with sources
-		<a href="https://factmission.substack.com/p/aids-v1"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		<a href="https://factmission.substack.com/p/aids"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
 		Watch it:
 		<a href="https://twitter.com/FactMissionOrg/status/1753465430688075849"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		<a href="https://vimeo.com/909179926">Vimeo</a>&nbsp;
@@ -429,7 +429,14 @@
 		<a href="https://rumble.com/v4aydsf-cdc.html">普通话</a>&nbsp;
 		<br>
 		<a href="https://twitter.com/FactMissionOrg/status/1753220999204504055"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png">Link to Project Coast</a>
+		</p>	
+
+		<h2 id="23"><u>23: Why real liberals take Putin's side on Ukraine</u></h2>
+		<p>
+		Watch it:
+		<a href="https://twitter.com/FactMissionOrg/status/1755651571071758478"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		</p>				
+		
 </section>
 </section>
 <section class="factbid_wrapsec" id="factbid-list">
