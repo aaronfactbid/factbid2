@@ -42,7 +42,7 @@ Redirect 301 /transcript/21 https://factmission.substack.com/p/cdc-foia
 Redirect 301 /transcript/22 https://factmission.substack.com/p/aids
 
 Redirect 301 /aids-docs https://docs.google.com/spreadsheets/d/1uvUnjnX7ZwEsB8fdEu2d8AjfqEQ50bqHCd3T3SSLpEQ
-Redirect 301 /aids		https://factmission.substack.com/p/aids
+Redirect 301 /aids		https://factmission.substack.com/p/aids-puzzle
 Redirect 301 /foia		https://factmission.substack.com/p/cdc-foia
 Redirect 301 /aids-x	https://twitter.com/factbid/status/1738285562782474353
 

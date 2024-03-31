@@ -436,6 +436,15 @@
 		Watch it:
 		<a href="https://twitter.com/FactMissionOrg/status/1755651571071758478"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
 		</p>				
+
+		<h2 id="24"><u>24: AIDS Origin Puzzle: AI Cracks 40-Year Mystery?</u></h2>
+		<h3>This is the first AIDS origin theory that aligns with ALL the facts, resolves all the enigmas, and, according to AI, can be verified with novel lab tests on early samples</h3>
+		<p>
+		Read the theory
+		<a href="https://factmission.substack.com/p/aids-puzzle"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/SubStack.png"></a>
+		Watch it:
+		<a href="https://x.com/FactMissionOrg/status/1774467464027381812?s=20"><img class="thumbnail-link" src="<?php echo $site_url ; ?>/images/Twitter.png"></a>
+		</p>				
 		
 </section>
 </section>
